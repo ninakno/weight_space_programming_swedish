@@ -1,0 +1,601 @@
+clause,adverb,adverb_group,matrix_verb,verb,prefix,sentence_good,sentence_bad,split
+embedded,alltid,shared,visste,tränar,Göran visste att Oskar,Göran visste att Oskar alltid tränar hunden före frukost,Göran visste att Oskar tränar alltid hunden före frukost,design
+embedded,aldrig,shared,visste,plockar,Märta visste att Vera,Märta visste att Vera aldrig plockar svamp efter jobbet,Märta visste att Vera plockar aldrig svamp efter jobbet,design
+embedded,ofta,shared,sa,dricker,Göran sa att Sigrid,Göran sa att Sigrid ofta dricker kaffet efter middagen,Göran sa att Sigrid dricker ofta kaffet efter middagen,design
+embedded,sällan,shared,tyckte,diskar,Gustav tyckte att Wilma,Gustav tyckte att Wilma sällan diskar tallrikarna under lunchen,Gustav tyckte att Wilma diskar sällan tallrikarna under lunchen,design
+embedded,ibland,shared,märkte,tränar,Leif märkte att Signe,Leif märkte att Signe ibland tränar hunden på helgerna,Leif märkte att Signe tränar ibland hunden på helgerna,design
+embedded,oftast,shared,tyckte,vattnar,Viktor tyckte att Hugo,Viktor tyckte att Hugo oftast vattnar blommorna efter jobbet,Viktor tyckte att Hugo vattnar oftast blommorna efter jobbet,check
+embedded,numera,shared,ångrade,dammsuger,Märta ångrade att Axel,Märta ångrade att Axel numera dammsuger mattan före frukost,Märta ångrade att Axel dammsuger numera mattan före frukost,design
+embedded,ständigt,shared,trodde,kör,Tove trodde att Leif,Tove trodde att Leif ständigt kör bilen före frukost,Tove trodde att Leif kör ständigt bilen före frukost,check
+embedded,regelbundet,shared,fruktade,viker,Märta fruktade att Kjell,Märta fruktade att Kjell regelbundet viker tvätten före frukost,Märta fruktade att Kjell viker regelbundet tvätten före frukost,design
+embedded,fortfarande,shared,upptäckte,dricker,Gunilla upptäckte att Maja,Gunilla upptäckte att Maja fortfarande dricker kaffet om kvällarna,Gunilla upptäckte att Maja dricker fortfarande kaffet om kvällarna,check
+embedded,inte,dev_only,visste,matar,Tove visste att Rolf,Tove visste att Rolf inte matar katten efter jobbet,Tove visste att Rolf matar inte katten efter jobbet,design
+embedded,verkligen,dev_only,tyckte,bakar,Alva tyckte att Göran,Alva tyckte att Göran verkligen bakar brödet på helgerna,Alva tyckte att Göran bakar verkligen brödet på helgerna,design
+embedded,gärna,dev_only,visste,besöker,Birgitta visste att Märta,Birgitta visste att Märta gärna besöker mormor på helgerna,Birgitta visste att Märta besöker gärna mormor på helgerna,check
+embedded,faktiskt,dev_only,upptäckte,skriver,Leif upptäckte att Arvid,Leif upptäckte att Arvid faktiskt skriver dagboken på helgerna,Leif upptäckte att Arvid skriver faktiskt dagboken på helgerna,design
+embedded,egentligen,dev_only,hörde,diskar,Wilma hörde att Stig,Wilma hörde att Stig egentligen diskar tallrikarna under lunchen,Wilma hörde att Stig diskar egentligen tallrikarna under lunchen,check
+embedded,redan,dev_only,trodde,sopar,Rolf trodde att Viktor,Rolf trodde att Viktor redan sopar golvet om kvällarna,Rolf trodde att Viktor sopar redan golvet om kvällarna,design
+embedded,knappast,dev_only,hoppades,putsar,Margareta hoppades att Elsa,Margareta hoppades att Elsa knappast putsar fönstren efter jobbet,Margareta hoppades att Elsa putsar knappast fönstren efter jobbet,check
+embedded,troligen,dev_only,ångrade,målar,Wilma ångrade att Stig,Wilma ångrade att Stig troligen målar staketet på helgerna,Wilma ångrade att Stig målar troligen staketet på helgerna,check
+embedded,alltid,shared,lovade,plockar,Wilma lovade att Birgitta,Wilma lovade att Birgitta alltid plockar svamp på fritiden,Wilma lovade att Birgitta plockar alltid svamp på fritiden,check
+embedded,aldrig,shared,ångrade,bakar,Selma ångrade att Maja,Selma ångrade att Maja aldrig bakar brödet på sommaren,Selma ångrade att Maja bakar aldrig brödet på sommaren,design
+embedded,ofta,shared,märkte,stryker,Axel märkte att Maja,Axel märkte att Maja ofta stryker skjortorna efter skolan,Axel märkte att Maja stryker ofta skjortorna efter skolan,check
+embedded,sällan,shared,hoppades,matar,Ulrika hoppades att Rolf,Ulrika hoppades att Rolf sällan matar katten efter skolan,Ulrika hoppades att Rolf matar sällan katten efter skolan,check
+embedded,ibland,shared,hörde,borstar,Rolf hörde att Sigrid,Rolf hörde att Sigrid ibland borstar tänderna på fritiden,Rolf hörde att Sigrid borstar ibland tänderna på fritiden,design
+embedded,oftast,shared,hoppades,vattnar,Lennart hoppades att Viktor,Lennart hoppades att Viktor oftast vattnar blommorna efter skolan,Lennart hoppades att Viktor vattnar oftast blommorna efter skolan,check
+embedded,numera,shared,märkte,kokar,Sigrid märkte att Gustav,Sigrid märkte att Gustav numera kokar potatisen under lunchen,Sigrid märkte att Gustav kokar numera potatisen under lunchen,check
+embedded,ständigt,shared,nämnde,putsar,Axel nämnde att Arvid,Axel nämnde att Arvid ständigt putsar fönstren på helgerna,Axel nämnde att Arvid putsar ständigt fönstren på helgerna,design
+embedded,regelbundet,shared,förstod,tränar,Leif förstod att Wilma,Leif förstod att Wilma regelbundet tränar hunden före frukost,Leif förstod att Wilma tränar regelbundet hunden före frukost,check
+embedded,fortfarande,shared,trodde,stryker,Ludvig trodde att Bengt,Ludvig trodde att Bengt fortfarande stryker skjortorna om kvällarna,Ludvig trodde att Bengt stryker fortfarande skjortorna om kvällarna,design
+embedded,inte,dev_only,nämnde,matar,Ludvig nämnde att Gunilla,Ludvig nämnde att Gunilla inte matar katten före frukost,Ludvig nämnde att Gunilla matar inte katten före frukost,design
+embedded,verkligen,dev_only,hoppades,tränar,Signe hoppades att Ulrika,Signe hoppades att Ulrika verkligen tränar hunden före frukost,Signe hoppades att Ulrika tränar verkligen hunden före frukost,design
+embedded,gärna,dev_only,hörde,klipper,Bengt hörde att Selma,Bengt hörde att Selma gärna klipper gräset på fritiden,Bengt hörde att Selma klipper gärna gräset på fritiden,design
+embedded,faktiskt,dev_only,insåg,kokar,Tove insåg att Lennart,Tove insåg att Lennart faktiskt kokar potatisen efter skolan,Tove insåg att Lennart kokar faktiskt potatisen efter skolan,check
+embedded,egentligen,dev_only,glömde,dricker,Viktor glömde att Ludvig,Viktor glömde att Ludvig egentligen dricker kaffet efter middagen,Viktor glömde att Ludvig dricker egentligen kaffet efter middagen,design
+embedded,redan,dev_only,trodde,plockar,Sven trodde att Margareta,Sven trodde att Margareta redan plockar svamp efter middagen,Sven trodde att Margareta plockar redan svamp efter middagen,check
+embedded,knappast,dev_only,tyckte,dricker,Stig tyckte att Ludvig,Stig tyckte att Ludvig knappast dricker kaffet i stugan,Stig tyckte att Ludvig dricker knappast kaffet i stugan,check
+embedded,troligen,dev_only,skrev,viker,Sven skrev att Vera,Sven skrev att Vera troligen viker tvätten efter skolan,Sven skrev att Vera viker troligen tvätten efter skolan,design
+embedded,alltid,shared,skrev,stryker,Bengt skrev att Stig,Bengt skrev att Stig alltid stryker skjortorna på sommaren,Bengt skrev att Stig stryker alltid skjortorna på sommaren,design
+embedded,aldrig,shared,nämnde,viker,Hugo nämnde att Ludvig,Hugo nämnde att Ludvig aldrig viker tvätten före frukost,Hugo nämnde att Ludvig viker aldrig tvätten före frukost,design
+embedded,ofta,shared,visste,diskar,Märta visste att Margareta,Märta visste att Margareta ofta diskar tallrikarna efter jobbet,Märta visste att Margareta diskar ofta tallrikarna efter jobbet,design
+embedded,sällan,shared,glömde,sopar,Birgitta glömde att Oskar,Birgitta glömde att Oskar sällan sopar golvet efter middagen,Birgitta glömde att Oskar sopar sällan golvet efter middagen,design
+embedded,ibland,shared,förstod,bakar,Selma förstod att Lennart,Selma förstod att Lennart ibland bakar brödet efter middagen,Selma förstod att Lennart bakar ibland brödet efter middagen,check
+embedded,oftast,shared,fruktade,putsar,Gustav fruktade att Vera,Gustav fruktade att Vera oftast putsar fönstren i stugan,Gustav fruktade att Vera putsar oftast fönstren i stugan,design
+embedded,numera,shared,skrev,bakar,Axel skrev att Elsa,Axel skrev att Elsa numera bakar brödet på sommaren,Axel skrev att Elsa bakar numera brödet på sommaren,check
+embedded,ständigt,shared,hoppades,viker,Oskar hoppades att Ludvig,Oskar hoppades att Ludvig ständigt viker tvätten före frukost,Oskar hoppades att Ludvig viker ständigt tvätten före frukost,design
+embedded,regelbundet,shared,hoppades,sjunger,Axel hoppades att Kjell,Axel hoppades att Kjell regelbundet sjunger sången på fritiden,Axel hoppades att Kjell sjunger regelbundet sången på fritiden,design
+embedded,fortfarande,shared,upptäckte,vattnar,Kjell upptäckte att Viktor,Kjell upptäckte att Viktor fortfarande vattnar blommorna på fritiden,Kjell upptäckte att Viktor vattnar fortfarande blommorna på fritiden,check
+embedded,inte,dev_only,lovade,plockar,Birgitta lovade att Ulrika,Birgitta lovade att Ulrika inte plockar svamp på fritiden,Birgitta lovade att Ulrika plockar inte svamp på fritiden,design
+embedded,verkligen,dev_only,tyckte,tränar,Oskar tyckte att Axel,Oskar tyckte att Axel verkligen tränar hunden efter middagen,Oskar tyckte att Axel tränar verkligen hunden efter middagen,design
+embedded,gärna,dev_only,visste,besöker,Göran visste att Margareta,Göran visste att Margareta gärna besöker mormor om kvällarna,Göran visste att Margareta besöker gärna mormor om kvällarna,design
+embedded,faktiskt,dev_only,tyckte,besöker,Elsa tyckte att Maja,Elsa tyckte att Maja faktiskt besöker mormor om kvällarna,Elsa tyckte att Maja besöker faktiskt mormor om kvällarna,design
+embedded,egentligen,dev_only,fruktade,besöker,Bengt fruktade att Margareta,Bengt fruktade att Margareta egentligen besöker mormor efter skolan,Bengt fruktade att Margareta besöker egentligen mormor efter skolan,design
+embedded,redan,dev_only,upptäckte,dricker,Astrid upptäckte att Arvid,Astrid upptäckte att Arvid redan dricker kaffet på sommaren,Astrid upptäckte att Arvid dricker redan kaffet på sommaren,check
+embedded,knappast,dev_only,tyckte,matar,Maja tyckte att Margareta,Maja tyckte att Margareta knappast matar katten på sommaren,Maja tyckte att Margareta matar knappast katten på sommaren,check
+embedded,troligen,dev_only,hörde,diskar,Hugo hörde att Märta,Hugo hörde att Märta troligen diskar tallrikarna efter skolan,Hugo hörde att Märta diskar troligen tallrikarna efter skolan,check
+embedded,alltid,shared,skrev,dricker,Sigrid skrev att Göran,Sigrid skrev att Göran alltid dricker kaffet efter skolan,Sigrid skrev att Göran dricker alltid kaffet efter skolan,check
+embedded,aldrig,shared,fruktade,plockar,Astrid fruktade att Axel,Astrid fruktade att Axel aldrig plockar svamp under lunchen,Astrid fruktade att Axel plockar aldrig svamp under lunchen,design
+embedded,ofta,shared,fruktade,plockar,Signe fruktade att Ulrika,Signe fruktade att Ulrika ofta plockar svamp under lunchen,Signe fruktade att Ulrika plockar ofta svamp under lunchen,check
+embedded,sällan,shared,hoppades,kokar,Selma hoppades att Arvid,Selma hoppades att Arvid sällan kokar potatisen i stugan,Selma hoppades att Arvid kokar sällan potatisen i stugan,check
+embedded,ibland,shared,nämnde,viker,Gunilla nämnde att Leif,Gunilla nämnde att Leif ibland viker tvätten på sommaren,Gunilla nämnde att Leif viker ibland tvätten på sommaren,design
+embedded,oftast,shared,hoppades,bakar,Rolf hoppades att Viktor,Rolf hoppades att Viktor oftast bakar brödet under lunchen,Rolf hoppades att Viktor bakar oftast brödet under lunchen,design
+embedded,numera,shared,hörde,matar,Signe hörde att Leif,Signe hörde att Leif numera matar katten på sommaren,Signe hörde att Leif matar numera katten på sommaren,design
+embedded,ständigt,shared,skrev,dammsuger,Astrid skrev att Ludvig,Astrid skrev att Ludvig ständigt dammsuger mattan om kvällarna,Astrid skrev att Ludvig dammsuger ständigt mattan om kvällarna,check
+embedded,regelbundet,shared,trodde,diskar,Birgitta trodde att Selma,Birgitta trodde att Selma regelbundet diskar tallrikarna på fritiden,Birgitta trodde att Selma diskar regelbundet tallrikarna på fritiden,check
+embedded,fortfarande,shared,lovade,sopar,Tove lovade att Bengt,Tove lovade att Bengt fortfarande sopar golvet under lunchen,Tove lovade att Bengt sopar fortfarande golvet under lunchen,design
+embedded,inte,dev_only,fruktade,matar,Axel fruktade att Elsa,Axel fruktade att Elsa inte matar katten före frukost,Axel fruktade att Elsa matar inte katten före frukost,design
+embedded,verkligen,dev_only,lovade,skriver,Gunilla lovade att Kjell,Gunilla lovade att Kjell verkligen skriver dagboken på sommaren,Gunilla lovade att Kjell skriver verkligen dagboken på sommaren,design
+embedded,gärna,dev_only,nämnde,klipper,Hugo nämnde att Viktor,Hugo nämnde att Viktor gärna klipper gräset efter jobbet,Hugo nämnde att Viktor klipper gärna gräset efter jobbet,design
+embedded,faktiskt,dev_only,tyckte,plockar,Margareta tyckte att Selma,Margareta tyckte att Selma faktiskt plockar svamp efter middagen,Margareta tyckte att Selma plockar faktiskt svamp efter middagen,design
+embedded,egentligen,dev_only,visste,sopar,Gustav visste att Maja,Gustav visste att Maja egentligen sopar golvet i stugan,Gustav visste att Maja sopar egentligen golvet i stugan,check
+embedded,redan,dev_only,märkte,viker,Alva märkte att Stig,Alva märkte att Stig redan viker tvätten efter middagen,Alva märkte att Stig viker redan tvätten efter middagen,check
+embedded,knappast,dev_only,förstod,matar,Hugo förstod att Vera,Hugo förstod att Vera knappast matar katten i stugan,Hugo förstod att Vera matar knappast katten i stugan,design
+embedded,troligen,dev_only,ångrade,bakar,Hugo ångrade att Selma,Hugo ångrade att Selma troligen bakar brödet på helgerna,Hugo ångrade att Selma bakar troligen brödet på helgerna,check
+embedded,alltid,shared,glömde,dricker,Lennart glömde att Birgitta,Lennart glömde att Birgitta alltid dricker kaffet före frukost,Lennart glömde att Birgitta dricker alltid kaffet före frukost,check
+embedded,aldrig,shared,visste,stryker,Signe visste att Axel,Signe visste att Axel aldrig stryker skjortorna på sommaren,Signe visste att Axel stryker aldrig skjortorna på sommaren,check
+embedded,ofta,shared,upptäckte,dammsuger,Ludvig upptäckte att Sven,Ludvig upptäckte att Sven ofta dammsuger mattan på sommaren,Ludvig upptäckte att Sven dammsuger ofta mattan på sommaren,design
+embedded,sällan,shared,tyckte,matar,Signe tyckte att Astrid,Signe tyckte att Astrid sällan matar katten på fritiden,Signe tyckte att Astrid matar sällan katten på fritiden,design
+embedded,ibland,shared,visste,diskar,Ludvig visste att Birgitta,Ludvig visste att Birgitta ibland diskar tallrikarna efter skolan,Ludvig visste att Birgitta diskar ibland tallrikarna efter skolan,design
+embedded,oftast,shared,skrev,målar,Sven skrev att Ludvig,Sven skrev att Ludvig oftast målar staketet på fritiden,Sven skrev att Ludvig målar oftast staketet på fritiden,design
+embedded,numera,shared,lovade,dammsuger,Axel lovade att Maja,Axel lovade att Maja numera dammsuger mattan efter jobbet,Axel lovade att Maja dammsuger numera mattan efter jobbet,design
+embedded,ständigt,shared,visste,dricker,Margareta visste att Arvid,Margareta visste att Arvid ständigt dricker kaffet på fritiden,Margareta visste att Arvid dricker ständigt kaffet på fritiden,design
+embedded,regelbundet,shared,upptäckte,diskar,Wilma upptäckte att Gustav,Wilma upptäckte att Gustav regelbundet diskar tallrikarna efter middagen,Wilma upptäckte att Gustav diskar regelbundet tallrikarna efter middagen,check
+embedded,fortfarande,shared,skrev,kör,Tove skrev att Ludvig,Tove skrev att Ludvig fortfarande kör bilen på sommaren,Tove skrev att Ludvig kör fortfarande bilen på sommaren,check
+embedded,inte,dev_only,trodde,sopar,Märta trodde att Viktor,Märta trodde att Viktor inte sopar golvet om kvällarna,Märta trodde att Viktor sopar inte golvet om kvällarna,design
+embedded,verkligen,dev_only,lovade,kör,Astrid lovade att Vera,Astrid lovade att Vera verkligen kör bilen efter skolan,Astrid lovade att Vera kör verkligen bilen efter skolan,design
+embedded,gärna,dev_only,lovade,besöker,Wilma lovade att Ulrika,Wilma lovade att Ulrika gärna besöker mormor på fritiden,Wilma lovade att Ulrika besöker gärna mormor på fritiden,check
+embedded,faktiskt,dev_only,nämnde,målar,Vera nämnde att Gunilla,Vera nämnde att Gunilla faktiskt målar staketet efter jobbet,Vera nämnde att Gunilla målar faktiskt staketet efter jobbet,design
+embedded,egentligen,dev_only,trodde,putsar,Tove trodde att Arvid,Tove trodde att Arvid egentligen putsar fönstren före frukost,Tove trodde att Arvid putsar egentligen fönstren före frukost,design
+embedded,redan,dev_only,lovade,kokar,Arvid lovade att Selma,Arvid lovade att Selma redan kokar potatisen i stugan,Arvid lovade att Selma kokar redan potatisen i stugan,check
+embedded,knappast,dev_only,lovade,borstar,Ulrika lovade att Tove,Ulrika lovade att Tove knappast borstar tänderna under lunchen,Ulrika lovade att Tove borstar knappast tänderna under lunchen,design
+embedded,troligen,dev_only,märkte,putsar,Rolf märkte att Ludvig,Rolf märkte att Ludvig troligen putsar fönstren på helgerna,Rolf märkte att Ludvig putsar troligen fönstren på helgerna,check
+embedded,alltid,shared,glömde,diskar,Hugo glömde att Axel,Hugo glömde att Axel alltid diskar tallrikarna i stugan,Hugo glömde att Axel diskar alltid tallrikarna i stugan,design
+embedded,aldrig,shared,märkte,kokar,Ulrika märkte att Gunilla,Ulrika märkte att Gunilla aldrig kokar potatisen efter skolan,Ulrika märkte att Gunilla kokar aldrig potatisen efter skolan,design
+embedded,ofta,shared,tyckte,plockar,Tove tyckte att Astrid,Tove tyckte att Astrid ofta plockar svamp på fritiden,Tove tyckte att Astrid plockar ofta svamp på fritiden,check
+embedded,sällan,shared,tyckte,kör,Maja tyckte att Oskar,Maja tyckte att Oskar sällan kör bilen på sommaren,Maja tyckte att Oskar kör sällan bilen på sommaren,design
+embedded,ibland,shared,hörde,tränar,Gustav hörde att Viktor,Gustav hörde att Viktor ibland tränar hunden under lunchen,Gustav hörde att Viktor tränar ibland hunden under lunchen,design
+embedded,oftast,shared,skrev,matar,Selma skrev att Hugo,Selma skrev att Hugo oftast matar katten på fritiden,Selma skrev att Hugo matar oftast katten på fritiden,design
+embedded,numera,shared,skrev,skriver,Stig skrev att Sigrid,Stig skrev att Sigrid numera skriver dagboken efter skolan,Stig skrev att Sigrid skriver numera dagboken efter skolan,check
+embedded,ständigt,shared,visste,putsar,Hugo visste att Wilma,Hugo visste att Wilma ständigt putsar fönstren efter middagen,Hugo visste att Wilma putsar ständigt fönstren efter middagen,design
+embedded,regelbundet,shared,lovade,besöker,Alva lovade att Sven,Alva lovade att Sven regelbundet besöker mormor om kvällarna,Alva lovade att Sven besöker regelbundet mormor om kvällarna,check
+embedded,fortfarande,shared,tyckte,viker,Gustav tyckte att Lennart,Gustav tyckte att Lennart fortfarande viker tvätten efter middagen,Gustav tyckte att Lennart viker fortfarande tvätten efter middagen,design
+embedded,inte,dev_only,hörde,tränar,Rolf hörde att Märta,Rolf hörde att Märta inte tränar hunden under lunchen,Rolf hörde att Märta tränar inte hunden under lunchen,design
+embedded,verkligen,dev_only,upptäckte,tränar,Leif upptäckte att Tove,Leif upptäckte att Tove verkligen tränar hunden före frukost,Leif upptäckte att Tove tränar verkligen hunden före frukost,design
+embedded,gärna,dev_only,förstod,kör,Bengt förstod att Margareta,Bengt förstod att Margareta gärna kör bilen under lunchen,Bengt förstod att Margareta kör gärna bilen under lunchen,design
+embedded,faktiskt,dev_only,märkte,kokar,Göran märkte att Kjell,Göran märkte att Kjell faktiskt kokar potatisen om kvällarna,Göran märkte att Kjell kokar faktiskt potatisen om kvällarna,check
+embedded,egentligen,dev_only,trodde,bakar,Sigrid trodde att Märta,Sigrid trodde att Märta egentligen bakar brödet på sommaren,Sigrid trodde att Märta bakar egentligen brödet på sommaren,check
+embedded,redan,dev_only,nämnde,putsar,Astrid nämnde att Birgitta,Astrid nämnde att Birgitta redan putsar fönstren på fritiden,Astrid nämnde att Birgitta putsar redan fönstren på fritiden,check
+embedded,knappast,dev_only,märkte,plockar,Alva märkte att Ulrika,Alva märkte att Ulrika knappast plockar svamp på fritiden,Alva märkte att Ulrika plockar knappast svamp på fritiden,design
+embedded,troligen,dev_only,fruktade,besöker,Ulrika fruktade att Lennart,Ulrika fruktade att Lennart troligen besöker mormor efter jobbet,Ulrika fruktade att Lennart besöker troligen mormor efter jobbet,design
+embedded,alltid,shared,skrev,bakar,Gunilla skrev att Vera,Gunilla skrev att Vera alltid bakar brödet på sommaren,Gunilla skrev att Vera bakar alltid brödet på sommaren,check
+embedded,aldrig,shared,ångrade,kokar,Rolf ångrade att Ludvig,Rolf ångrade att Ludvig aldrig kokar potatisen på sommaren,Rolf ångrade att Ludvig kokar aldrig potatisen på sommaren,check
+embedded,ofta,shared,hoppades,matar,Tove hoppades att Elsa,Tove hoppades att Elsa ofta matar katten under lunchen,Tove hoppades att Elsa matar ofta katten under lunchen,check
+embedded,sällan,shared,tyckte,sjunger,Kjell tyckte att Wilma,Kjell tyckte att Wilma sällan sjunger sången på fritiden,Kjell tyckte att Wilma sjunger sällan sången på fritiden,design
+embedded,ibland,shared,märkte,dammsuger,Margareta märkte att Sven,Margareta märkte att Sven ibland dammsuger mattan om kvällarna,Margareta märkte att Sven dammsuger ibland mattan om kvällarna,check
+embedded,oftast,shared,insåg,sjunger,Birgitta insåg att Axel,Birgitta insåg att Axel oftast sjunger sången på helgerna,Birgitta insåg att Axel sjunger oftast sången på helgerna,check
+embedded,numera,shared,upptäckte,viker,Märta upptäckte att Arvid,Märta upptäckte att Arvid numera viker tvätten under lunchen,Märta upptäckte att Arvid viker numera tvätten under lunchen,design
+embedded,ständigt,shared,förstod,tränar,Arvid förstod att Elsa,Arvid förstod att Elsa ständigt tränar hunden efter jobbet,Arvid förstod att Elsa tränar ständigt hunden efter jobbet,check
+embedded,regelbundet,shared,insåg,klipper,Leif insåg att Oskar,Leif insåg att Oskar regelbundet klipper gräset före frukost,Leif insåg att Oskar klipper regelbundet gräset före frukost,design
+embedded,fortfarande,shared,insåg,besöker,Lennart insåg att Ludvig,Lennart insåg att Ludvig fortfarande besöker mormor efter skolan,Lennart insåg att Ludvig besöker fortfarande mormor efter skolan,check
+embedded,inte,dev_only,ångrade,målar,Sven ångrade att Hugo,Sven ångrade att Hugo inte målar staketet i stugan,Sven ångrade att Hugo målar inte staketet i stugan,design
+embedded,verkligen,dev_only,sa,klipper,Ludvig sa att Wilma,Ludvig sa att Wilma verkligen klipper gräset om kvällarna,Ludvig sa att Wilma klipper verkligen gräset om kvällarna,check
+embedded,gärna,dev_only,skrev,matar,Stig skrev att Wilma,Stig skrev att Wilma gärna matar katten på helgerna,Stig skrev att Wilma matar gärna katten på helgerna,check
+embedded,faktiskt,dev_only,skrev,sjunger,Tove skrev att Lennart,Tove skrev att Lennart faktiskt sjunger sången på helgerna,Tove skrev att Lennart sjunger faktiskt sången på helgerna,check
+embedded,egentligen,dev_only,nämnde,målar,Maja nämnde att Vera,Maja nämnde att Vera egentligen målar staketet före frukost,Maja nämnde att Vera målar egentligen staketet före frukost,check
+embedded,redan,dev_only,glömde,sopar,Axel glömde att Signe,Axel glömde att Signe redan sopar golvet om kvällarna,Axel glömde att Signe sopar redan golvet om kvällarna,design
+embedded,knappast,dev_only,nämnde,skriver,Axel nämnde att Selma,Axel nämnde att Selma knappast skriver dagboken om kvällarna,Axel nämnde att Selma skriver knappast dagboken om kvällarna,design
+embedded,troligen,dev_only,ångrade,klipper,Kjell ångrade att Margareta,Kjell ångrade att Margareta troligen klipper gräset efter skolan,Kjell ångrade att Margareta klipper troligen gräset efter skolan,check
+embedded,alltid,shared,skrev,klipper,Selma skrev att Gunilla,Selma skrev att Gunilla alltid klipper gräset om kvällarna,Selma skrev att Gunilla klipper alltid gräset om kvällarna,check
+embedded,aldrig,shared,förstod,viker,Stig förstod att Ludvig,Stig förstod att Ludvig aldrig viker tvätten om kvällarna,Stig förstod att Ludvig viker aldrig tvätten om kvällarna,check
+embedded,ofta,shared,skrev,kokar,Tove skrev att Bengt,Tove skrev att Bengt ofta kokar potatisen i stugan,Tove skrev att Bengt kokar ofta potatisen i stugan,check
+embedded,sällan,shared,glömde,kokar,Alva glömde att Vera,Alva glömde att Vera sällan kokar potatisen under lunchen,Alva glömde att Vera kokar sällan potatisen under lunchen,check
+embedded,ibland,shared,upptäckte,diskar,Astrid upptäckte att Märta,Astrid upptäckte att Märta ibland diskar tallrikarna i stugan,Astrid upptäckte att Märta diskar ibland tallrikarna i stugan,design
+embedded,oftast,shared,sa,dammsuger,Göran sa att Gustav,Göran sa att Gustav oftast dammsuger mattan i stugan,Göran sa att Gustav dammsuger oftast mattan i stugan,check
+embedded,numera,shared,sa,dricker,Gunilla sa att Axel,Gunilla sa att Axel numera dricker kaffet efter skolan,Gunilla sa att Axel dricker numera kaffet efter skolan,check
+embedded,ständigt,shared,nämnde,sjunger,Rolf nämnde att Elsa,Rolf nämnde att Elsa ständigt sjunger sången efter skolan,Rolf nämnde att Elsa sjunger ständigt sången efter skolan,design
+embedded,regelbundet,shared,tyckte,plockar,Gunilla tyckte att Vera,Gunilla tyckte att Vera regelbundet plockar svamp i stugan,Gunilla tyckte att Vera plockar regelbundet svamp i stugan,check
+embedded,fortfarande,shared,sa,skriver,Göran sa att Ulrika,Göran sa att Ulrika fortfarande skriver dagboken på sommaren,Göran sa att Ulrika skriver fortfarande dagboken på sommaren,design
+embedded,inte,dev_only,insåg,plockar,Maja insåg att Ulrika,Maja insåg att Ulrika inte plockar svamp före frukost,Maja insåg att Ulrika plockar inte svamp före frukost,check
+embedded,verkligen,dev_only,glömde,sjunger,Birgitta glömde att Lennart,Birgitta glömde att Lennart verkligen sjunger sången efter middagen,Birgitta glömde att Lennart sjunger verkligen sången efter middagen,check
+embedded,gärna,dev_only,märkte,vattnar,Margareta märkte att Lennart,Margareta märkte att Lennart gärna vattnar blommorna på fritiden,Margareta märkte att Lennart vattnar gärna blommorna på fritiden,design
+embedded,faktiskt,dev_only,märkte,klipper,Ludvig märkte att Signe,Ludvig märkte att Signe faktiskt klipper gräset under lunchen,Ludvig märkte att Signe klipper faktiskt gräset under lunchen,design
+embedded,egentligen,dev_only,förstod,dammsuger,Viktor förstod att Alva,Viktor förstod att Alva egentligen dammsuger mattan före frukost,Viktor förstod att Alva dammsuger egentligen mattan före frukost,design
+embedded,redan,dev_only,sa,sopar,Hugo sa att Birgitta,Hugo sa att Birgitta redan sopar golvet om kvällarna,Hugo sa att Birgitta sopar redan golvet om kvällarna,check
+embedded,knappast,dev_only,hoppades,matar,Ludvig hoppades att Astrid,Ludvig hoppades att Astrid knappast matar katten efter jobbet,Ludvig hoppades att Astrid matar knappast katten efter jobbet,design
+embedded,troligen,dev_only,glömde,matar,Birgitta glömde att Alva,Birgitta glömde att Alva troligen matar katten efter jobbet,Birgitta glömde att Alva matar troligen katten efter jobbet,design
+embedded,alltid,shared,märkte,diskar,Vera märkte att Maja,Vera märkte att Maja alltid diskar tallrikarna om kvällarna,Vera märkte att Maja diskar alltid tallrikarna om kvällarna,check
+embedded,aldrig,shared,trodde,kör,Signe trodde att Gunilla,Signe trodde att Gunilla aldrig kör bilen efter skolan,Signe trodde att Gunilla kör aldrig bilen efter skolan,design
+embedded,ofta,shared,ångrade,målar,Rolf ångrade att Axel,Rolf ångrade att Axel ofta målar staketet efter middagen,Rolf ångrade att Axel målar ofta staketet efter middagen,check
+embedded,sällan,shared,fruktade,putsar,Rolf fruktade att Margareta,Rolf fruktade att Margareta sällan putsar fönstren på helgerna,Rolf fruktade att Margareta putsar sällan fönstren på helgerna,design
+embedded,ibland,shared,nämnde,diskar,Selma nämnde att Viktor,Selma nämnde att Viktor ibland diskar tallrikarna om kvällarna,Selma nämnde att Viktor diskar ibland tallrikarna om kvällarna,design
+embedded,oftast,shared,trodde,kör,Margareta trodde att Gustav,Margareta trodde att Gustav oftast kör bilen efter middagen,Margareta trodde att Gustav kör oftast bilen efter middagen,check
+embedded,numera,shared,sa,målar,Maja sa att Gustav,Maja sa att Gustav numera målar staketet på sommaren,Maja sa att Gustav målar numera staketet på sommaren,check
+embedded,ständigt,shared,nämnde,borstar,Märta nämnde att Elsa,Märta nämnde att Elsa ständigt borstar tänderna på fritiden,Märta nämnde att Elsa borstar ständigt tänderna på fritiden,design
+embedded,regelbundet,shared,visste,målar,Vera visste att Signe,Vera visste att Signe regelbundet målar staketet före frukost,Vera visste att Signe målar regelbundet staketet före frukost,design
+embedded,fortfarande,shared,nämnde,plockar,Arvid nämnde att Ludvig,Arvid nämnde att Ludvig fortfarande plockar svamp på fritiden,Arvid nämnde att Ludvig plockar fortfarande svamp på fritiden,design
+embedded,inte,dev_only,glömde,kör,Hugo glömde att Viktor,Hugo glömde att Viktor inte kör bilen efter jobbet,Hugo glömde att Viktor kör inte bilen efter jobbet,design
+embedded,verkligen,dev_only,hörde,matar,Lennart hörde att Rolf,Lennart hörde att Rolf verkligen matar katten på helgerna,Lennart hörde att Rolf matar verkligen katten på helgerna,check
+embedded,gärna,dev_only,upptäckte,matar,Märta upptäckte att Tove,Märta upptäckte att Tove gärna matar katten under lunchen,Märta upptäckte att Tove matar gärna katten under lunchen,design
+embedded,faktiskt,dev_only,visste,matar,Lennart visste att Gustav,Lennart visste att Gustav faktiskt matar katten före frukost,Lennart visste att Gustav matar faktiskt katten före frukost,check
+embedded,egentligen,dev_only,visste,matar,Märta visste att Sven,Märta visste att Sven egentligen matar katten på helgerna,Märta visste att Sven matar egentligen katten på helgerna,check
+embedded,redan,dev_only,hoppades,bakar,Maja hoppades att Gustav,Maja hoppades att Gustav redan bakar brödet på sommaren,Maja hoppades att Gustav bakar redan brödet på sommaren,design
+embedded,knappast,dev_only,ångrade,klipper,Signe ångrade att Selma,Signe ångrade att Selma knappast klipper gräset före frukost,Signe ångrade att Selma klipper knappast gräset före frukost,check
+embedded,troligen,dev_only,trodde,kör,Astrid trodde att Oskar,Astrid trodde att Oskar troligen kör bilen efter jobbet,Astrid trodde att Oskar kör troligen bilen efter jobbet,check
+embedded,alltid,shared,ångrade,kör,Sigrid ångrade att Arvid,Sigrid ångrade att Arvid alltid kör bilen efter middagen,Sigrid ångrade att Arvid kör alltid bilen efter middagen,check
+embedded,aldrig,shared,trodde,viker,Arvid trodde att Hugo,Arvid trodde att Hugo aldrig viker tvätten på helgerna,Arvid trodde att Hugo viker aldrig tvätten på helgerna,check
+embedded,ofta,shared,förstod,matar,Selma förstod att Kjell,Selma förstod att Kjell ofta matar katten på sommaren,Selma förstod att Kjell matar ofta katten på sommaren,check
+embedded,sällan,shared,nämnde,plockar,Birgitta nämnde att Ulrika,Birgitta nämnde att Ulrika sällan plockar svamp på sommaren,Birgitta nämnde att Ulrika plockar sällan svamp på sommaren,check
+embedded,ibland,shared,upptäckte,viker,Alva upptäckte att Selma,Alva upptäckte att Selma ibland viker tvätten under lunchen,Alva upptäckte att Selma viker ibland tvätten under lunchen,design
+embedded,oftast,shared,fruktade,matar,Stig fruktade att Leif,Stig fruktade att Leif oftast matar katten efter middagen,Stig fruktade att Leif matar oftast katten efter middagen,check
+embedded,numera,shared,fruktade,klipper,Birgitta fruktade att Göran,Birgitta fruktade att Göran numera klipper gräset före frukost,Birgitta fruktade att Göran klipper numera gräset före frukost,check
+embedded,ständigt,shared,glömde,kör,Gustav glömde att Tove,Gustav glömde att Tove ständigt kör bilen under lunchen,Gustav glömde att Tove kör ständigt bilen under lunchen,design
+embedded,regelbundet,shared,visste,diskar,Rolf visste att Signe,Rolf visste att Signe regelbundet diskar tallrikarna på fritiden,Rolf visste att Signe diskar regelbundet tallrikarna på fritiden,design
+embedded,fortfarande,shared,nämnde,klipper,Märta nämnde att Bengt,Märta nämnde att Bengt fortfarande klipper gräset under lunchen,Märta nämnde att Bengt klipper fortfarande gräset under lunchen,check
+embedded,inte,dev_only,hörde,besöker,Alva hörde att Astrid,Alva hörde att Astrid inte besöker mormor under lunchen,Alva hörde att Astrid besöker inte mormor under lunchen,design
+embedded,verkligen,dev_only,lovade,sopar,Maja lovade att Göran,Maja lovade att Göran verkligen sopar golvet på helgerna,Maja lovade att Göran sopar verkligen golvet på helgerna,check
+embedded,gärna,dev_only,hoppades,sopar,Birgitta hoppades att Hugo,Birgitta hoppades att Hugo gärna sopar golvet före frukost,Birgitta hoppades att Hugo sopar gärna golvet före frukost,design
+embedded,faktiskt,dev_only,nämnde,borstar,Gustav nämnde att Arvid,Gustav nämnde att Arvid faktiskt borstar tänderna efter jobbet,Gustav nämnde att Arvid borstar faktiskt tänderna efter jobbet,design
+embedded,egentligen,dev_only,visste,kör,Gustav visste att Tove,Gustav visste att Tove egentligen kör bilen efter skolan,Gustav visste att Tove kör egentligen bilen efter skolan,design
+embedded,redan,dev_only,sa,sjunger,Selma sa att Viktor,Selma sa att Viktor redan sjunger sången under lunchen,Selma sa att Viktor sjunger redan sången under lunchen,check
+embedded,knappast,dev_only,märkte,bakar,Arvid märkte att Elsa,Arvid märkte att Elsa knappast bakar brödet efter middagen,Arvid märkte att Elsa bakar knappast brödet efter middagen,check
+embedded,troligen,dev_only,glömde,plockar,Alva glömde att Signe,Alva glömde att Signe troligen plockar svamp efter middagen,Alva glömde att Signe plockar troligen svamp efter middagen,check
+embedded,alltid,shared,skrev,sjunger,Märta skrev att Margareta,Märta skrev att Margareta alltid sjunger sången efter skolan,Märta skrev att Margareta sjunger alltid sången efter skolan,check
+embedded,aldrig,shared,förstod,matar,Alva förstod att Lennart,Alva förstod att Lennart aldrig matar katten efter skolan,Alva förstod att Lennart matar aldrig katten efter skolan,design
+embedded,ofta,shared,skrev,plockar,Kjell skrev att Ulrika,Kjell skrev att Ulrika ofta plockar svamp om kvällarna,Kjell skrev att Ulrika plockar ofta svamp om kvällarna,design
+embedded,sällan,shared,fruktade,sopar,Gustav fruktade att Astrid,Gustav fruktade att Astrid sällan sopar golvet om kvällarna,Gustav fruktade att Astrid sopar sällan golvet om kvällarna,check
+embedded,ibland,shared,ångrade,målar,Stig ångrade att Gunilla,Stig ångrade att Gunilla ibland målar staketet på helgerna,Stig ångrade att Gunilla målar ibland staketet på helgerna,check
+embedded,oftast,shared,trodde,putsar,Lennart trodde att Birgitta,Lennart trodde att Birgitta oftast putsar fönstren på fritiden,Lennart trodde att Birgitta putsar oftast fönstren på fritiden,check
+embedded,numera,shared,trodde,dricker,Viktor trodde att Vera,Viktor trodde att Vera numera dricker kaffet efter jobbet,Viktor trodde att Vera dricker numera kaffet efter jobbet,check
+embedded,ständigt,shared,tyckte,kör,Gunilla tyckte att Bengt,Gunilla tyckte att Bengt ständigt kör bilen om kvällarna,Gunilla tyckte att Bengt kör ständigt bilen om kvällarna,check
+embedded,regelbundet,shared,förstod,besöker,Sven förstod att Ludvig,Sven förstod att Ludvig regelbundet besöker mormor om kvällarna,Sven förstod att Ludvig besöker regelbundet mormor om kvällarna,design
+embedded,fortfarande,shared,trodde,putsar,Märta trodde att Elsa,Märta trodde att Elsa fortfarande putsar fönstren efter skolan,Märta trodde att Elsa putsar fortfarande fönstren efter skolan,design
+embedded,inte,dev_only,upptäckte,kör,Kjell upptäckte att Signe,Kjell upptäckte att Signe inte kör bilen under lunchen,Kjell upptäckte att Signe kör inte bilen under lunchen,check
+embedded,verkligen,dev_only,lovade,bakar,Lennart lovade att Wilma,Lennart lovade att Wilma verkligen bakar brödet före frukost,Lennart lovade att Wilma bakar verkligen brödet före frukost,check
+embedded,gärna,dev_only,glömde,sjunger,Elsa glömde att Astrid,Elsa glömde att Astrid gärna sjunger sången om kvällarna,Elsa glömde att Astrid sjunger gärna sången om kvällarna,design
+embedded,faktiskt,dev_only,märkte,målar,Alva märkte att Märta,Alva märkte att Märta faktiskt målar staketet om kvällarna,Alva märkte att Märta målar faktiskt staketet om kvällarna,check
+embedded,egentligen,dev_only,märkte,plockar,Bengt märkte att Rolf,Bengt märkte att Rolf egentligen plockar svamp under lunchen,Bengt märkte att Rolf plockar egentligen svamp under lunchen,design
+embedded,redan,dev_only,skrev,besöker,Maja skrev att Birgitta,Maja skrev att Birgitta redan besöker mormor på sommaren,Maja skrev att Birgitta besöker redan mormor på sommaren,design
+embedded,knappast,dev_only,glömde,besöker,Lennart glömde att Gunilla,Lennart glömde att Gunilla knappast besöker mormor om kvällarna,Lennart glömde att Gunilla besöker knappast mormor om kvällarna,design
+embedded,troligen,dev_only,nämnde,kör,Gunilla nämnde att Vera,Gunilla nämnde att Vera troligen kör bilen om kvällarna,Gunilla nämnde att Vera kör troligen bilen om kvällarna,design
+embedded,alltid,shared,hörde,tränar,Vera hörde att Tove,Vera hörde att Tove alltid tränar hunden under lunchen,Vera hörde att Tove tränar alltid hunden under lunchen,design
+embedded,aldrig,shared,märkte,borstar,Kjell märkte att Gustav,Kjell märkte att Gustav aldrig borstar tänderna i stugan,Kjell märkte att Gustav borstar aldrig tänderna i stugan,design
+embedded,ofta,shared,hoppades,tränar,Wilma hoppades att Lennart,Wilma hoppades att Lennart ofta tränar hunden om kvällarna,Wilma hoppades att Lennart tränar ofta hunden om kvällarna,design
+embedded,sällan,shared,ångrade,klipper,Tove ångrade att Rolf,Tove ångrade att Rolf sällan klipper gräset på helgerna,Tove ångrade att Rolf klipper sällan gräset på helgerna,check
+embedded,ibland,shared,fruktade,skriver,Birgitta fruktade att Selma,Birgitta fruktade att Selma ibland skriver dagboken efter jobbet,Birgitta fruktade att Selma skriver ibland dagboken efter jobbet,check
+embedded,oftast,shared,glömde,kokar,Stig glömde att Oskar,Stig glömde att Oskar oftast kokar potatisen på fritiden,Stig glömde att Oskar kokar oftast potatisen på fritiden,check
+embedded,numera,shared,skrev,plockar,Bengt skrev att Signe,Bengt skrev att Signe numera plockar svamp före frukost,Bengt skrev att Signe plockar numera svamp före frukost,check
+embedded,ständigt,shared,fruktade,målar,Axel fruktade att Selma,Axel fruktade att Selma ständigt målar staketet under lunchen,Axel fruktade att Selma målar ständigt staketet under lunchen,design
+embedded,regelbundet,shared,tyckte,plockar,Rolf tyckte att Margareta,Rolf tyckte att Margareta regelbundet plockar svamp i stugan,Rolf tyckte att Margareta plockar regelbundet svamp i stugan,design
+embedded,fortfarande,shared,tyckte,dammsuger,Signe tyckte att Birgitta,Signe tyckte att Birgitta fortfarande dammsuger mattan på sommaren,Signe tyckte att Birgitta dammsuger fortfarande mattan på sommaren,design
+embedded,inte,dev_only,trodde,vattnar,Gustav trodde att Lennart,Gustav trodde att Lennart inte vattnar blommorna på helgerna,Gustav trodde att Lennart vattnar inte blommorna på helgerna,design
+embedded,verkligen,dev_only,hörde,vattnar,Margareta hörde att Sigrid,Margareta hörde att Sigrid verkligen vattnar blommorna på helgerna,Margareta hörde att Sigrid vattnar verkligen blommorna på helgerna,check
+embedded,gärna,dev_only,sa,dricker,Vera sa att Maja,Vera sa att Maja gärna dricker kaffet före frukost,Vera sa att Maja dricker gärna kaffet före frukost,design
+embedded,faktiskt,dev_only,förstod,kokar,Astrid förstod att Leif,Astrid förstod att Leif faktiskt kokar potatisen på helgerna,Astrid förstod att Leif kokar faktiskt potatisen på helgerna,design
+embedded,egentligen,dev_only,fruktade,kör,Hugo fruktade att Kjell,Hugo fruktade att Kjell egentligen kör bilen på fritiden,Hugo fruktade att Kjell kör egentligen bilen på fritiden,design
+embedded,redan,dev_only,visste,dricker,Gunilla visste att Gustav,Gunilla visste att Gustav redan dricker kaffet efter skolan,Gunilla visste att Gustav dricker redan kaffet efter skolan,check
+embedded,knappast,dev_only,fruktade,stryker,Alva fruktade att Sven,Alva fruktade att Sven knappast stryker skjortorna efter middagen,Alva fruktade att Sven stryker knappast skjortorna efter middagen,check
+embedded,troligen,dev_only,tyckte,besöker,Astrid tyckte att Gustav,Astrid tyckte att Gustav troligen besöker mormor i stugan,Astrid tyckte att Gustav besöker troligen mormor i stugan,check
+embedded,alltid,shared,märkte,målar,Ludvig märkte att Alva,Ludvig märkte att Alva alltid målar staketet om kvällarna,Ludvig märkte att Alva målar alltid staketet om kvällarna,design
+embedded,aldrig,shared,trodde,bakar,Göran trodde att Margareta,Göran trodde att Margareta aldrig bakar brödet på sommaren,Göran trodde att Margareta bakar aldrig brödet på sommaren,design
+embedded,ofta,shared,lovade,bakar,Sven lovade att Wilma,Sven lovade att Wilma ofta bakar brödet i stugan,Sven lovade att Wilma bakar ofta brödet i stugan,check
+embedded,sällan,shared,fruktade,vattnar,Leif fruktade att Rolf,Leif fruktade att Rolf sällan vattnar blommorna på fritiden,Leif fruktade att Rolf vattnar sällan blommorna på fritiden,design
+embedded,ibland,shared,hörde,sjunger,Selma hörde att Gustav,Selma hörde att Gustav ibland sjunger sången i stugan,Selma hörde att Gustav sjunger ibland sången i stugan,design
+embedded,oftast,shared,hoppades,bakar,Lennart hoppades att Hugo,Lennart hoppades att Hugo oftast bakar brödet på helgerna,Lennart hoppades att Hugo bakar oftast brödet på helgerna,design
+embedded,numera,shared,glömde,stryker,Göran glömde att Maja,Göran glömde att Maja numera stryker skjortorna på fritiden,Göran glömde att Maja stryker numera skjortorna på fritiden,design
+embedded,ständigt,shared,visste,diskar,Hugo visste att Selma,Hugo visste att Selma ständigt diskar tallrikarna efter middagen,Hugo visste att Selma diskar ständigt tallrikarna efter middagen,check
+embedded,regelbundet,shared,lovade,klipper,Astrid lovade att Arvid,Astrid lovade att Arvid regelbundet klipper gräset i stugan,Astrid lovade att Arvid klipper regelbundet gräset i stugan,check
+embedded,fortfarande,shared,trodde,skriver,Gustav trodde att Hugo,Gustav trodde att Hugo fortfarande skriver dagboken efter jobbet,Gustav trodde att Hugo skriver fortfarande dagboken efter jobbet,design
+embedded,inte,dev_only,insåg,diskar,Arvid insåg att Göran,Arvid insåg att Göran inte diskar tallrikarna på sommaren,Arvid insåg att Göran diskar inte tallrikarna på sommaren,check
+embedded,verkligen,dev_only,hoppades,plockar,Lennart hoppades att Selma,Lennart hoppades att Selma verkligen plockar svamp före frukost,Lennart hoppades att Selma plockar verkligen svamp före frukost,check
+embedded,gärna,dev_only,fruktade,viker,Kjell fruktade att Viktor,Kjell fruktade att Viktor gärna viker tvätten efter middagen,Kjell fruktade att Viktor viker gärna tvätten efter middagen,design
+embedded,faktiskt,dev_only,fruktade,klipper,Oskar fruktade att Märta,Oskar fruktade att Märta faktiskt klipper gräset före frukost,Oskar fruktade att Märta klipper faktiskt gräset före frukost,design
+embedded,egentligen,dev_only,trodde,bakar,Viktor trodde att Sven,Viktor trodde att Sven egentligen bakar brödet på fritiden,Viktor trodde att Sven bakar egentligen brödet på fritiden,check
+embedded,redan,dev_only,nämnde,sjunger,Vera nämnde att Rolf,Vera nämnde att Rolf redan sjunger sången i stugan,Vera nämnde att Rolf sjunger redan sången i stugan,check
+embedded,knappast,dev_only,upptäckte,kokar,Oskar upptäckte att Alva,Oskar upptäckte att Alva knappast kokar potatisen efter middagen,Oskar upptäckte att Alva kokar knappast potatisen efter middagen,design
+embedded,troligen,dev_only,glömde,putsar,Gustav glömde att Wilma,Gustav glömde att Wilma troligen putsar fönstren efter jobbet,Gustav glömde att Wilma putsar troligen fönstren efter jobbet,design
+embedded,alltid,shared,hoppades,diskar,Göran hoppades att Viktor,Göran hoppades att Viktor alltid diskar tallrikarna efter skolan,Göran hoppades att Viktor diskar alltid tallrikarna efter skolan,check
+embedded,aldrig,shared,trodde,diskar,Axel trodde att Elsa,Axel trodde att Elsa aldrig diskar tallrikarna på sommaren,Axel trodde att Elsa diskar aldrig tallrikarna på sommaren,check
+embedded,ofta,shared,märkte,kör,Elsa märkte att Signe,Elsa märkte att Signe ofta kör bilen på fritiden,Elsa märkte att Signe kör ofta bilen på fritiden,check
+embedded,sällan,shared,trodde,tränar,Vera trodde att Leif,Vera trodde att Leif sällan tränar hunden efter middagen,Vera trodde att Leif tränar sällan hunden efter middagen,design
+embedded,ibland,shared,upptäckte,vattnar,Göran upptäckte att Gunilla,Göran upptäckte att Gunilla ibland vattnar blommorna om kvällarna,Göran upptäckte att Gunilla vattnar ibland blommorna om kvällarna,check
+embedded,oftast,shared,sa,kör,Lennart sa att Gustav,Lennart sa att Gustav oftast kör bilen på fritiden,Lennart sa att Gustav kör oftast bilen på fritiden,design
+embedded,numera,shared,hörde,sopar,Astrid hörde att Bengt,Astrid hörde att Bengt numera sopar golvet före frukost,Astrid hörde att Bengt sopar numera golvet före frukost,design
+embedded,ständigt,shared,hörde,viker,Leif hörde att Vera,Leif hörde att Vera ständigt viker tvätten före frukost,Leif hörde att Vera viker ständigt tvätten före frukost,design
+embedded,regelbundet,shared,förstod,tränar,Bengt förstod att Axel,Bengt förstod att Axel regelbundet tränar hunden efter jobbet,Bengt förstod att Axel tränar regelbundet hunden efter jobbet,check
+embedded,fortfarande,shared,nämnde,besöker,Oskar nämnde att Gustav,Oskar nämnde att Gustav fortfarande besöker mormor efter middagen,Oskar nämnde att Gustav besöker fortfarande mormor efter middagen,check
+embedded,inte,dev_only,trodde,plockar,Birgitta trodde att Märta,Birgitta trodde att Märta inte plockar svamp under lunchen,Birgitta trodde att Märta plockar inte svamp under lunchen,design
+embedded,verkligen,dev_only,ångrade,sjunger,Elsa ångrade att Axel,Elsa ångrade att Axel verkligen sjunger sången i stugan,Elsa ångrade att Axel sjunger verkligen sången i stugan,check
+embedded,gärna,dev_only,ångrade,dammsuger,Arvid ångrade att Märta,Arvid ångrade att Märta gärna dammsuger mattan efter skolan,Arvid ångrade att Märta dammsuger gärna mattan efter skolan,design
+embedded,faktiskt,dev_only,nämnde,dricker,Märta nämnde att Viktor,Märta nämnde att Viktor faktiskt dricker kaffet i stugan,Märta nämnde att Viktor dricker faktiskt kaffet i stugan,check
+embedded,egentligen,dev_only,hörde,plockar,Maja hörde att Hugo,Maja hörde att Hugo egentligen plockar svamp om kvällarna,Maja hörde att Hugo plockar egentligen svamp om kvällarna,check
+embedded,redan,dev_only,lovade,matar,Maja lovade att Selma,Maja lovade att Selma redan matar katten om kvällarna,Maja lovade att Selma matar redan katten om kvällarna,design
+embedded,knappast,dev_only,märkte,bakar,Stig märkte att Rolf,Stig märkte att Rolf knappast bakar brödet före frukost,Stig märkte att Rolf bakar knappast brödet före frukost,check
+embedded,troligen,dev_only,fruktade,vattnar,Elsa fruktade att Wilma,Elsa fruktade att Wilma troligen vattnar blommorna om kvällarna,Elsa fruktade att Wilma vattnar troligen blommorna om kvällarna,check
+embedded,alltid,shared,hoppades,tränar,Arvid hoppades att Vera,Arvid hoppades att Vera alltid tränar hunden i stugan,Arvid hoppades att Vera tränar alltid hunden i stugan,design
+embedded,aldrig,shared,trodde,klipper,Signe trodde att Kjell,Signe trodde att Kjell aldrig klipper gräset i stugan,Signe trodde att Kjell klipper aldrig gräset i stugan,check
+embedded,ofta,shared,hörde,bakar,Tove hörde att Maja,Tove hörde att Maja ofta bakar brödet efter skolan,Tove hörde att Maja bakar ofta brödet efter skolan,design
+embedded,sällan,shared,upptäckte,stryker,Birgitta upptäckte att Tove,Birgitta upptäckte att Tove sällan stryker skjortorna efter middagen,Birgitta upptäckte att Tove stryker sällan skjortorna efter middagen,design
+embedded,ibland,shared,förstod,vattnar,Ludvig förstod att Leif,Ludvig förstod att Leif ibland vattnar blommorna på fritiden,Ludvig förstod att Leif vattnar ibland blommorna på fritiden,check
+embedded,oftast,shared,hörde,dricker,Axel hörde att Oskar,Axel hörde att Oskar oftast dricker kaffet under lunchen,Axel hörde att Oskar dricker oftast kaffet under lunchen,design
+embedded,numera,shared,skrev,putsar,Signe skrev att Wilma,Signe skrev att Wilma numera putsar fönstren efter middagen,Signe skrev att Wilma putsar numera fönstren efter middagen,check
+embedded,ständigt,shared,tyckte,dricker,Kjell tyckte att Oskar,Kjell tyckte att Oskar ständigt dricker kaffet under lunchen,Kjell tyckte att Oskar dricker ständigt kaffet under lunchen,design
+embedded,regelbundet,shared,glömde,matar,Leif glömde att Birgitta,Leif glömde att Birgitta regelbundet matar katten efter skolan,Leif glömde att Birgitta matar regelbundet katten efter skolan,check
+embedded,fortfarande,shared,fruktade,kokar,Märta fruktade att Göran,Märta fruktade att Göran fortfarande kokar potatisen före frukost,Märta fruktade att Göran kokar fortfarande potatisen före frukost,design
+embedded,inte,dev_only,glömde,putsar,Alva glömde att Margareta,Alva glömde att Margareta inte putsar fönstren i stugan,Alva glömde att Margareta putsar inte fönstren i stugan,check
+embedded,verkligen,dev_only,tyckte,kör,Ulrika tyckte att Wilma,Ulrika tyckte att Wilma verkligen kör bilen på helgerna,Ulrika tyckte att Wilma kör verkligen bilen på helgerna,design
+embedded,gärna,dev_only,visste,klipper,Axel visste att Oskar,Axel visste att Oskar gärna klipper gräset i stugan,Axel visste att Oskar klipper gärna gräset i stugan,design
+embedded,faktiskt,dev_only,hörde,kokar,Rolf hörde att Ludvig,Rolf hörde att Ludvig faktiskt kokar potatisen under lunchen,Rolf hörde att Ludvig kokar faktiskt potatisen under lunchen,check
+embedded,egentligen,dev_only,tyckte,plockar,Viktor tyckte att Rolf,Viktor tyckte att Rolf egentligen plockar svamp före frukost,Viktor tyckte att Rolf plockar egentligen svamp före frukost,design
+embedded,redan,dev_only,glömde,målar,Leif glömde att Lennart,Leif glömde att Lennart redan målar staketet om kvällarna,Leif glömde att Lennart målar redan staketet om kvällarna,check
+embedded,knappast,dev_only,fruktade,stryker,Tove fruktade att Gunilla,Tove fruktade att Gunilla knappast stryker skjortorna i stugan,Tove fruktade att Gunilla stryker knappast skjortorna i stugan,check
+embedded,troligen,dev_only,tyckte,sopar,Kjell tyckte att Gustav,Kjell tyckte att Gustav troligen sopar golvet efter skolan,Kjell tyckte att Gustav sopar troligen golvet efter skolan,design
+embedded,alltid,shared,insåg,matar,Gunilla insåg att Hugo,Gunilla insåg att Hugo alltid matar katten under lunchen,Gunilla insåg att Hugo matar alltid katten under lunchen,design
+embedded,aldrig,shared,förstod,matar,Sigrid förstod att Rolf,Sigrid förstod att Rolf aldrig matar katten i stugan,Sigrid förstod att Rolf matar aldrig katten i stugan,design
+embedded,ofta,shared,upptäckte,vattnar,Oskar upptäckte att Ludvig,Oskar upptäckte att Ludvig ofta vattnar blommorna före frukost,Oskar upptäckte att Ludvig vattnar ofta blommorna före frukost,design
+embedded,sällan,shared,insåg,plockar,Sven insåg att Birgitta,Sven insåg att Birgitta sällan plockar svamp på fritiden,Sven insåg att Birgitta plockar sällan svamp på fritiden,check
+embedded,ibland,shared,skrev,borstar,Bengt skrev att Lennart,Bengt skrev att Lennart ibland borstar tänderna efter middagen,Bengt skrev att Lennart borstar ibland tänderna efter middagen,design
+embedded,oftast,shared,fruktade,vattnar,Wilma fruktade att Gunilla,Wilma fruktade att Gunilla oftast vattnar blommorna efter jobbet,Wilma fruktade att Gunilla vattnar oftast blommorna efter jobbet,design
+embedded,numera,shared,trodde,matar,Stig trodde att Kjell,Stig trodde att Kjell numera matar katten efter middagen,Stig trodde att Kjell matar numera katten efter middagen,check
+embedded,ständigt,shared,nämnde,kör,Lennart nämnde att Arvid,Lennart nämnde att Arvid ständigt kör bilen om kvällarna,Lennart nämnde att Arvid kör ständigt bilen om kvällarna,check
+embedded,regelbundet,shared,skrev,tränar,Margareta skrev att Alva,Margareta skrev att Alva regelbundet tränar hunden efter middagen,Margareta skrev att Alva tränar regelbundet hunden efter middagen,check
+embedded,fortfarande,shared,nämnde,sjunger,Stig nämnde att Tove,Stig nämnde att Tove fortfarande sjunger sången efter skolan,Stig nämnde att Tove sjunger fortfarande sången efter skolan,design
+embedded,inte,dev_only,ångrade,sopar,Ludvig ångrade att Margareta,Ludvig ångrade att Margareta inte sopar golvet efter skolan,Ludvig ångrade att Margareta sopar inte golvet efter skolan,design
+embedded,verkligen,dev_only,upptäckte,dricker,Gunilla upptäckte att Sven,Gunilla upptäckte att Sven verkligen dricker kaffet på helgerna,Gunilla upptäckte att Sven dricker verkligen kaffet på helgerna,check
+embedded,gärna,dev_only,tyckte,putsar,Lennart tyckte att Sigrid,Lennart tyckte att Sigrid gärna putsar fönstren i stugan,Lennart tyckte att Sigrid putsar gärna fönstren i stugan,check
+embedded,faktiskt,dev_only,förstod,målar,Signe förstod att Gustav,Signe förstod att Gustav faktiskt målar staketet efter middagen,Signe förstod att Gustav målar faktiskt staketet efter middagen,check
+embedded,egentligen,dev_only,förstod,dricker,Hugo förstod att Leif,Hugo förstod att Leif egentligen dricker kaffet på fritiden,Hugo förstod att Leif dricker egentligen kaffet på fritiden,check
+embedded,redan,dev_only,lovade,dammsuger,Selma lovade att Lennart,Selma lovade att Lennart redan dammsuger mattan efter middagen,Selma lovade att Lennart dammsuger redan mattan efter middagen,check
+embedded,knappast,dev_only,skrev,putsar,Stig skrev att Selma,Stig skrev att Selma knappast putsar fönstren på helgerna,Stig skrev att Selma putsar knappast fönstren på helgerna,check
+embedded,troligen,dev_only,hoppades,putsar,Maja hoppades att Elsa,Maja hoppades att Elsa troligen putsar fönstren i stugan,Maja hoppades att Elsa putsar troligen fönstren i stugan,design
+embedded,alltid,shared,visste,dammsuger,Lennart visste att Elsa,Lennart visste att Elsa alltid dammsuger mattan på fritiden,Lennart visste att Elsa dammsuger alltid mattan på fritiden,check
+embedded,aldrig,shared,trodde,bakar,Oskar trodde att Leif,Oskar trodde att Leif aldrig bakar brödet om kvällarna,Oskar trodde att Leif bakar aldrig brödet om kvällarna,design
+embedded,ofta,shared,tyckte,vattnar,Sigrid tyckte att Birgitta,Sigrid tyckte att Birgitta ofta vattnar blommorna efter jobbet,Sigrid tyckte att Birgitta vattnar ofta blommorna efter jobbet,design
+embedded,sällan,shared,märkte,putsar,Kjell märkte att Hugo,Kjell märkte att Hugo sällan putsar fönstren efter middagen,Kjell märkte att Hugo putsar sällan fönstren efter middagen,check
+embedded,ibland,shared,nämnde,kör,Stig nämnde att Sigrid,Stig nämnde att Sigrid ibland kör bilen före frukost,Stig nämnde att Sigrid kör ibland bilen före frukost,design
+embedded,oftast,shared,skrev,diskar,Ulrika skrev att Arvid,Ulrika skrev att Arvid oftast diskar tallrikarna under lunchen,Ulrika skrev att Arvid diskar oftast tallrikarna under lunchen,design
+embedded,numera,shared,glömde,tränar,Sigrid glömde att Rolf,Sigrid glömde att Rolf numera tränar hunden på sommaren,Sigrid glömde att Rolf tränar numera hunden på sommaren,check
+embedded,ständigt,shared,ångrade,vattnar,Margareta ångrade att Rolf,Margareta ångrade att Rolf ständigt vattnar blommorna efter skolan,Margareta ångrade att Rolf vattnar ständigt blommorna efter skolan,check
+embedded,regelbundet,shared,sa,matar,Astrid sa att Alva,Astrid sa att Alva regelbundet matar katten på helgerna,Astrid sa att Alva matar regelbundet katten på helgerna,check
+embedded,fortfarande,shared,insåg,kokar,Oskar insåg att Wilma,Oskar insåg att Wilma fortfarande kokar potatisen i stugan,Oskar insåg att Wilma kokar fortfarande potatisen i stugan,check
+embedded,inte,dev_only,lovade,diskar,Astrid lovade att Signe,Astrid lovade att Signe inte diskar tallrikarna på helgerna,Astrid lovade att Signe diskar inte tallrikarna på helgerna,check
+embedded,verkligen,dev_only,skrev,diskar,Birgitta skrev att Margareta,Birgitta skrev att Margareta verkligen diskar tallrikarna efter middagen,Birgitta skrev att Margareta diskar verkligen tallrikarna efter middagen,check
+main,alltid,shared,,kokar,Märta,Märta kokar alltid potatisen före frukost,Märta alltid kokar potatisen före frukost,check
+main,aldrig,shared,,bakar,Ulrika,Ulrika bakar aldrig brödet på fritiden,Ulrika aldrig bakar brödet på fritiden,check
+main,ofta,shared,,klipper,Astrid,Astrid klipper ofta gräset om kvällarna,Astrid ofta klipper gräset om kvällarna,check
+main,sällan,shared,,dricker,Kjell,Kjell dricker sällan kaffet på fritiden,Kjell sällan dricker kaffet på fritiden,design
+main,ibland,shared,,sopar,Wilma,Wilma sopar ibland golvet före frukost,Wilma ibland sopar golvet före frukost,check
+main,oftast,shared,,dammsuger,Birgitta,Birgitta dammsuger oftast mattan efter middagen,Birgitta oftast dammsuger mattan efter middagen,design
+main,numera,shared,,stryker,Tove,Tove stryker numera skjortorna på sommaren,Tove numera stryker skjortorna på sommaren,design
+main,ständigt,shared,,vattnar,Stig,Stig vattnar ständigt blommorna på fritiden,Stig ständigt vattnar blommorna på fritiden,design
+main,regelbundet,shared,,tränar,Oskar,Oskar tränar regelbundet hunden i stugan,Oskar regelbundet tränar hunden i stugan,design
+main,fortfarande,shared,,dricker,Hugo,Hugo dricker fortfarande kaffet på sommaren,Hugo fortfarande dricker kaffet på sommaren,check
+main,inte,dev_only,,plockar,Sven,Sven plockar inte svamp på fritiden,Sven inte plockar svamp på fritiden,design
+main,verkligen,dev_only,,stryker,Arvid,Arvid stryker verkligen skjortorna på fritiden,Arvid verkligen stryker skjortorna på fritiden,check
+main,gärna,dev_only,,bakar,Ulrika,Ulrika bakar gärna brödet på sommaren,Ulrika gärna bakar brödet på sommaren,design
+main,faktiskt,dev_only,,plockar,Alva,Alva plockar faktiskt svamp på helgerna,Alva faktiskt plockar svamp på helgerna,check
+main,egentligen,dev_only,,viker,Leif,Leif viker egentligen tvätten under lunchen,Leif egentligen viker tvätten under lunchen,check
+main,redan,dev_only,,tränar,Signe,Signe tränar redan hunden före frukost,Signe redan tränar hunden före frukost,check
+main,knappast,dev_only,,målar,Selma,Selma målar knappast staketet i stugan,Selma knappast målar staketet i stugan,design
+main,troligen,dev_only,,sjunger,Selma,Selma sjunger troligen sången efter skolan,Selma troligen sjunger sången efter skolan,check
+main,alltid,shared,,kör,Vera,Vera kör alltid bilen i stugan,Vera alltid kör bilen i stugan,design
+main,aldrig,shared,,dammsuger,Oskar,Oskar dammsuger aldrig mattan före frukost,Oskar aldrig dammsuger mattan före frukost,design
+main,ofta,shared,,matar,Wilma,Wilma matar ofta katten efter middagen,Wilma ofta matar katten efter middagen,check
+main,sällan,shared,,tränar,Lennart,Lennart tränar sällan hunden på sommaren,Lennart sällan tränar hunden på sommaren,design
+main,ibland,shared,,putsar,Ludvig,Ludvig putsar ibland fönstren om kvällarna,Ludvig ibland putsar fönstren om kvällarna,check
+main,oftast,shared,,målar,Sigrid,Sigrid målar oftast staketet på fritiden,Sigrid oftast målar staketet på fritiden,design
+main,numera,shared,,vattnar,Astrid,Astrid vattnar numera blommorna om kvällarna,Astrid numera vattnar blommorna om kvällarna,design
+main,ständigt,shared,,tränar,Axel,Axel tränar ständigt hunden under lunchen,Axel ständigt tränar hunden under lunchen,check
+main,regelbundet,shared,,målar,Axel,Axel målar regelbundet staketet före frukost,Axel regelbundet målar staketet före frukost,check
+main,fortfarande,shared,,vattnar,Rolf,Rolf vattnar fortfarande blommorna på sommaren,Rolf fortfarande vattnar blommorna på sommaren,design
+main,inte,dev_only,,kör,Ulrika,Ulrika kör inte bilen på sommaren,Ulrika inte kör bilen på sommaren,check
+main,verkligen,dev_only,,skriver,Astrid,Astrid skriver verkligen dagboken på helgerna,Astrid verkligen skriver dagboken på helgerna,check
+main,gärna,dev_only,,kokar,Oskar,Oskar kokar gärna potatisen på sommaren,Oskar gärna kokar potatisen på sommaren,design
+main,faktiskt,dev_only,,viker,Selma,Selma viker faktiskt tvätten efter jobbet,Selma faktiskt viker tvätten efter jobbet,check
+main,egentligen,dev_only,,dricker,Lennart,Lennart dricker egentligen kaffet under lunchen,Lennart egentligen dricker kaffet under lunchen,check
+main,redan,dev_only,,dricker,Birgitta,Birgitta dricker redan kaffet på sommaren,Birgitta redan dricker kaffet på sommaren,design
+main,knappast,dev_only,,putsar,Alva,Alva putsar knappast fönstren efter skolan,Alva knappast putsar fönstren efter skolan,design
+main,troligen,dev_only,,tränar,Gunilla,Gunilla tränar troligen hunden efter jobbet,Gunilla troligen tränar hunden efter jobbet,design
+main,alltid,shared,,stryker,Hugo,Hugo stryker alltid skjortorna efter skolan,Hugo alltid stryker skjortorna efter skolan,design
+main,aldrig,shared,,plockar,Sigrid,Sigrid plockar aldrig svamp under lunchen,Sigrid aldrig plockar svamp under lunchen,design
+main,ofta,shared,,kokar,Sigrid,Sigrid kokar ofta potatisen om kvällarna,Sigrid ofta kokar potatisen om kvällarna,design
+main,sällan,shared,,viker,Astrid,Astrid viker sällan tvätten på fritiden,Astrid sällan viker tvätten på fritiden,design
+main,ibland,shared,,stryker,Bengt,Bengt stryker ibland skjortorna i stugan,Bengt ibland stryker skjortorna i stugan,check
+main,oftast,shared,,kör,Ulrika,Ulrika kör oftast bilen om kvällarna,Ulrika oftast kör bilen om kvällarna,check
+main,numera,shared,,matar,Astrid,Astrid matar numera katten på fritiden,Astrid numera matar katten på fritiden,check
+main,ständigt,shared,,tränar,Selma,Selma tränar ständigt hunden under lunchen,Selma ständigt tränar hunden under lunchen,design
+main,regelbundet,shared,,borstar,Gunilla,Gunilla borstar regelbundet tänderna på fritiden,Gunilla regelbundet borstar tänderna på fritiden,check
+main,fortfarande,shared,,diskar,Wilma,Wilma diskar fortfarande tallrikarna om kvällarna,Wilma fortfarande diskar tallrikarna om kvällarna,check
+main,inte,dev_only,,målar,Maja,Maja målar inte staketet i stugan,Maja inte målar staketet i stugan,check
+main,verkligen,dev_only,,plockar,Ulrika,Ulrika plockar verkligen svamp på sommaren,Ulrika verkligen plockar svamp på sommaren,check
+main,gärna,dev_only,,matar,Sven,Sven matar gärna katten om kvällarna,Sven gärna matar katten om kvällarna,check
+main,faktiskt,dev_only,,dricker,Tove,Tove dricker faktiskt kaffet i stugan,Tove faktiskt dricker kaffet i stugan,check
+main,egentligen,dev_only,,besöker,Alva,Alva besöker egentligen mormor på helgerna,Alva egentligen besöker mormor på helgerna,check
+main,redan,dev_only,,målar,Oskar,Oskar målar redan staketet på sommaren,Oskar redan målar staketet på sommaren,check
+main,knappast,dev_only,,matar,Hugo,Hugo matar knappast katten på helgerna,Hugo knappast matar katten på helgerna,check
+main,troligen,dev_only,,vattnar,Selma,Selma vattnar troligen blommorna på helgerna,Selma troligen vattnar blommorna på helgerna,check
+main,alltid,shared,,diskar,Axel,Axel diskar alltid tallrikarna före frukost,Axel alltid diskar tallrikarna före frukost,check
+main,aldrig,shared,,bakar,Sven,Sven bakar aldrig brödet på sommaren,Sven aldrig bakar brödet på sommaren,design
+main,ofta,shared,,matar,Viktor,Viktor matar ofta katten efter jobbet,Viktor ofta matar katten efter jobbet,check
+main,sällan,shared,,målar,Sigrid,Sigrid målar sällan staketet på sommaren,Sigrid sällan målar staketet på sommaren,check
+main,ibland,shared,,viker,Maja,Maja viker ibland tvätten under lunchen,Maja ibland viker tvätten under lunchen,check
+main,oftast,shared,,skriver,Ludvig,Ludvig skriver oftast dagboken på fritiden,Ludvig oftast skriver dagboken på fritiden,check
+main,numera,shared,,stryker,Gunilla,Gunilla stryker numera skjortorna på helgerna,Gunilla numera stryker skjortorna på helgerna,design
+main,ständigt,shared,,besöker,Elsa,Elsa besöker ständigt mormor i stugan,Elsa ständigt besöker mormor i stugan,check
+main,regelbundet,shared,,putsar,Elsa,Elsa putsar regelbundet fönstren på sommaren,Elsa regelbundet putsar fönstren på sommaren,design
+main,fortfarande,shared,,bakar,Ludvig,Ludvig bakar fortfarande brödet i stugan,Ludvig fortfarande bakar brödet i stugan,check
+main,inte,dev_only,,vattnar,Axel,Axel vattnar inte blommorna på fritiden,Axel inte vattnar blommorna på fritiden,design
+main,verkligen,dev_only,,diskar,Margareta,Margareta diskar verkligen tallrikarna om kvällarna,Margareta verkligen diskar tallrikarna om kvällarna,design
+main,gärna,dev_only,,diskar,Lennart,Lennart diskar gärna tallrikarna i stugan,Lennart gärna diskar tallrikarna i stugan,check
+main,faktiskt,dev_only,,kör,Wilma,Wilma kör faktiskt bilen efter skolan,Wilma faktiskt kör bilen efter skolan,design
+main,egentligen,dev_only,,putsar,Leif,Leif putsar egentligen fönstren på helgerna,Leif egentligen putsar fönstren på helgerna,design
+main,redan,dev_only,,putsar,Maja,Maja putsar redan fönstren på helgerna,Maja redan putsar fönstren på helgerna,check
+main,knappast,dev_only,,stryker,Oskar,Oskar stryker knappast skjortorna på fritiden,Oskar knappast stryker skjortorna på fritiden,check
+main,troligen,dev_only,,stryker,Lennart,Lennart stryker troligen skjortorna efter jobbet,Lennart troligen stryker skjortorna efter jobbet,check
+main,alltid,shared,,bakar,Gustav,Gustav bakar alltid brödet under lunchen,Gustav alltid bakar brödet under lunchen,check
+main,aldrig,shared,,målar,Birgitta,Birgitta målar aldrig staketet under lunchen,Birgitta aldrig målar staketet under lunchen,check
+main,ofta,shared,,vattnar,Gunilla,Gunilla vattnar ofta blommorna på fritiden,Gunilla ofta vattnar blommorna på fritiden,check
+main,sällan,shared,,matar,Arvid,Arvid matar sällan katten på sommaren,Arvid sällan matar katten på sommaren,check
+main,ibland,shared,,kör,Stig,Stig kör ibland bilen på fritiden,Stig ibland kör bilen på fritiden,design
+main,oftast,shared,,kokar,Gustav,Gustav kokar oftast potatisen på fritiden,Gustav oftast kokar potatisen på fritiden,design
+main,numera,shared,,skriver,Signe,Signe skriver numera dagboken om kvällarna,Signe numera skriver dagboken om kvällarna,design
+main,ständigt,shared,,tränar,Birgitta,Birgitta tränar ständigt hunden efter skolan,Birgitta ständigt tränar hunden efter skolan,design
+main,regelbundet,shared,,plockar,Ludvig,Ludvig plockar regelbundet svamp på helgerna,Ludvig regelbundet plockar svamp på helgerna,check
+main,fortfarande,shared,,besöker,Birgitta,Birgitta besöker fortfarande mormor före frukost,Birgitta fortfarande besöker mormor före frukost,design
+main,inte,dev_only,,tränar,Hugo,Hugo tränar inte hunden på helgerna,Hugo inte tränar hunden på helgerna,design
+main,verkligen,dev_only,,putsar,Leif,Leif putsar verkligen fönstren efter middagen,Leif verkligen putsar fönstren efter middagen,design
+main,gärna,dev_only,,besöker,Gustav,Gustav besöker gärna mormor på sommaren,Gustav gärna besöker mormor på sommaren,check
+main,faktiskt,dev_only,,dammsuger,Axel,Axel dammsuger faktiskt mattan på fritiden,Axel faktiskt dammsuger mattan på fritiden,check
+main,egentligen,dev_only,,diskar,Sven,Sven diskar egentligen tallrikarna i stugan,Sven egentligen diskar tallrikarna i stugan,check
+main,redan,dev_only,,sopar,Bengt,Bengt sopar redan golvet efter middagen,Bengt redan sopar golvet efter middagen,check
+main,knappast,dev_only,,matar,Sven,Sven matar knappast katten om kvällarna,Sven knappast matar katten om kvällarna,design
+main,troligen,dev_only,,dricker,Märta,Märta dricker troligen kaffet under lunchen,Märta troligen dricker kaffet under lunchen,check
+main,alltid,shared,,viker,Gunilla,Gunilla viker alltid tvätten på sommaren,Gunilla alltid viker tvätten på sommaren,design
+main,aldrig,shared,,viker,Oskar,Oskar viker aldrig tvätten i stugan,Oskar aldrig viker tvätten i stugan,design
+main,ofta,shared,,putsar,Margareta,Margareta putsar ofta fönstren efter jobbet,Margareta ofta putsar fönstren efter jobbet,design
+main,sällan,shared,,bakar,Arvid,Arvid bakar sällan brödet före frukost,Arvid sällan bakar brödet före frukost,design
+main,ibland,shared,,plockar,Kjell,Kjell plockar ibland svamp på helgerna,Kjell ibland plockar svamp på helgerna,design
+main,oftast,shared,,diskar,Sigrid,Sigrid diskar oftast tallrikarna efter jobbet,Sigrid oftast diskar tallrikarna efter jobbet,design
+main,numera,shared,,dammsuger,Astrid,Astrid dammsuger numera mattan på helgerna,Astrid numera dammsuger mattan på helgerna,design
+main,ständigt,shared,,diskar,Göran,Göran diskar ständigt tallrikarna på fritiden,Göran ständigt diskar tallrikarna på fritiden,check
+main,regelbundet,shared,,skriver,Selma,Selma skriver regelbundet dagboken under lunchen,Selma regelbundet skriver dagboken under lunchen,check
+main,fortfarande,shared,,dricker,Gustav,Gustav dricker fortfarande kaffet på helgerna,Gustav fortfarande dricker kaffet på helgerna,design
+main,inte,dev_only,,skriver,Ludvig,Ludvig skriver inte dagboken på helgerna,Ludvig inte skriver dagboken på helgerna,check
+main,verkligen,dev_only,,tränar,Hugo,Hugo tränar verkligen hunden om kvällarna,Hugo verkligen tränar hunden om kvällarna,check
+main,gärna,dev_only,,viker,Astrid,Astrid viker gärna tvätten under lunchen,Astrid gärna viker tvätten under lunchen,check
+main,faktiskt,dev_only,,putsar,Maja,Maja putsar faktiskt fönstren före frukost,Maja faktiskt putsar fönstren före frukost,check
+main,egentligen,dev_only,,tränar,Vera,Vera tränar egentligen hunden om kvällarna,Vera egentligen tränar hunden om kvällarna,design
+main,redan,dev_only,,dammsuger,Göran,Göran dammsuger redan mattan efter skolan,Göran redan dammsuger mattan efter skolan,check
+main,knappast,dev_only,,tränar,Viktor,Viktor tränar knappast hunden om kvällarna,Viktor knappast tränar hunden om kvällarna,design
+main,troligen,dev_only,,målar,Birgitta,Birgitta målar troligen staketet i stugan,Birgitta troligen målar staketet i stugan,design
+main,alltid,shared,,kör,Kjell,Kjell kör alltid bilen efter middagen,Kjell alltid kör bilen efter middagen,check
+main,aldrig,shared,,besöker,Maja,Maja besöker aldrig mormor om kvällarna,Maja aldrig besöker mormor om kvällarna,check
+main,ofta,shared,,målar,Wilma,Wilma målar ofta staketet i stugan,Wilma ofta målar staketet i stugan,design
+main,sällan,shared,,stryker,Viktor,Viktor stryker sällan skjortorna på sommaren,Viktor sällan stryker skjortorna på sommaren,design
+main,ibland,shared,,matar,Selma,Selma matar ibland katten på helgerna,Selma ibland matar katten på helgerna,check
+main,oftast,shared,,stryker,Signe,Signe stryker oftast skjortorna före frukost,Signe oftast stryker skjortorna före frukost,design
+main,numera,shared,,bakar,Sigrid,Sigrid bakar numera brödet i stugan,Sigrid numera bakar brödet i stugan,design
+main,ständigt,shared,,besöker,Birgitta,Birgitta besöker ständigt mormor på sommaren,Birgitta ständigt besöker mormor på sommaren,design
+main,regelbundet,shared,,dricker,Oskar,Oskar dricker regelbundet kaffet om kvällarna,Oskar regelbundet dricker kaffet om kvällarna,design
+main,fortfarande,shared,,putsar,Maja,Maja putsar fortfarande fönstren efter middagen,Maja fortfarande putsar fönstren efter middagen,check
+main,inte,dev_only,,plockar,Viktor,Viktor plockar inte svamp på fritiden,Viktor inte plockar svamp på fritiden,check
+main,verkligen,dev_only,,stryker,Tove,Tove stryker verkligen skjortorna efter skolan,Tove verkligen stryker skjortorna efter skolan,check
+main,gärna,dev_only,,viker,Astrid,Astrid viker gärna tvätten i stugan,Astrid gärna viker tvätten i stugan,design
+main,faktiskt,dev_only,,vattnar,Viktor,Viktor vattnar faktiskt blommorna på helgerna,Viktor faktiskt vattnar blommorna på helgerna,check
+main,egentligen,dev_only,,sjunger,Märta,Märta sjunger egentligen sången under lunchen,Märta egentligen sjunger sången under lunchen,design
+main,redan,dev_only,,sopar,Wilma,Wilma sopar redan golvet före frukost,Wilma redan sopar golvet före frukost,check
+main,knappast,dev_only,,klipper,Tove,Tove klipper knappast gräset före frukost,Tove knappast klipper gräset före frukost,design
+main,troligen,dev_only,,kör,Oskar,Oskar kör troligen bilen i stugan,Oskar troligen kör bilen i stugan,design
+main,alltid,shared,,tränar,Tove,Tove tränar alltid hunden under lunchen,Tove alltid tränar hunden under lunchen,design
+main,aldrig,shared,,sopar,Maja,Maja sopar aldrig golvet i stugan,Maja aldrig sopar golvet i stugan,check
+main,ofta,shared,,diskar,Bengt,Bengt diskar ofta tallrikarna om kvällarna,Bengt ofta diskar tallrikarna om kvällarna,design
+main,sällan,shared,,putsar,Axel,Axel putsar sällan fönstren efter middagen,Axel sällan putsar fönstren efter middagen,design
+main,ibland,shared,,sopar,Margareta,Margareta sopar ibland golvet på helgerna,Margareta ibland sopar golvet på helgerna,design
+main,oftast,shared,,matar,Gustav,Gustav matar oftast katten före frukost,Gustav oftast matar katten före frukost,check
+main,numera,shared,,diskar,Tove,Tove diskar numera tallrikarna efter skolan,Tove numera diskar tallrikarna efter skolan,design
+main,ständigt,shared,,sjunger,Ludvig,Ludvig sjunger ständigt sången efter middagen,Ludvig ständigt sjunger sången efter middagen,design
+main,regelbundet,shared,,borstar,Ludvig,Ludvig borstar regelbundet tänderna om kvällarna,Ludvig regelbundet borstar tänderna om kvällarna,check
+main,fortfarande,shared,,sjunger,Elsa,Elsa sjunger fortfarande sången före frukost,Elsa fortfarande sjunger sången före frukost,check
+main,inte,dev_only,,sopar,Viktor,Viktor sopar inte golvet under lunchen,Viktor inte sopar golvet under lunchen,check
+main,verkligen,dev_only,,matar,Märta,Märta matar verkligen katten under lunchen,Märta verkligen matar katten under lunchen,design
+main,gärna,dev_only,,viker,Kjell,Kjell viker gärna tvätten på helgerna,Kjell gärna viker tvätten på helgerna,check
+main,faktiskt,dev_only,,sjunger,Astrid,Astrid sjunger faktiskt sången efter jobbet,Astrid faktiskt sjunger sången efter jobbet,design
+main,egentligen,dev_only,,målar,Märta,Märta målar egentligen staketet i stugan,Märta egentligen målar staketet i stugan,design
+main,redan,dev_only,,klipper,Tove,Tove klipper redan gräset i stugan,Tove redan klipper gräset i stugan,check
+main,knappast,dev_only,,viker,Göran,Göran viker knappast tvätten på helgerna,Göran knappast viker tvätten på helgerna,design
+main,troligen,dev_only,,sjunger,Märta,Märta sjunger troligen sången efter middagen,Märta troligen sjunger sången efter middagen,check
+main,alltid,shared,,besöker,Ulrika,Ulrika besöker alltid mormor på helgerna,Ulrika alltid besöker mormor på helgerna,check
+main,aldrig,shared,,vattnar,Signe,Signe vattnar aldrig blommorna efter skolan,Signe aldrig vattnar blommorna efter skolan,check
+main,ofta,shared,,dammsuger,Signe,Signe dammsuger ofta mattan efter skolan,Signe ofta dammsuger mattan efter skolan,check
+main,sällan,shared,,sjunger,Sigrid,Sigrid sjunger sällan sången före frukost,Sigrid sällan sjunger sången före frukost,design
+main,ibland,shared,,plockar,Kjell,Kjell plockar ibland svamp på sommaren,Kjell ibland plockar svamp på sommaren,design
+main,oftast,shared,,sopar,Wilma,Wilma sopar oftast golvet före frukost,Wilma oftast sopar golvet före frukost,design
+main,numera,shared,,sopar,Märta,Märta sopar numera golvet i stugan,Märta numera sopar golvet i stugan,design
+main,ständigt,shared,,matar,Oskar,Oskar matar ständigt katten om kvällarna,Oskar ständigt matar katten om kvällarna,design
+main,regelbundet,shared,,bakar,Lennart,Lennart bakar regelbundet brödet i stugan,Lennart regelbundet bakar brödet i stugan,design
+main,fortfarande,shared,,besöker,Bengt,Bengt besöker fortfarande mormor efter jobbet,Bengt fortfarande besöker mormor efter jobbet,design
+main,inte,dev_only,,stryker,Leif,Leif stryker inte skjortorna före frukost,Leif inte stryker skjortorna före frukost,design
+main,verkligen,dev_only,,besöker,Rolf,Rolf besöker verkligen mormor på fritiden,Rolf verkligen besöker mormor på fritiden,check
+main,gärna,dev_only,,sjunger,Kjell,Kjell sjunger gärna sången om kvällarna,Kjell gärna sjunger sången om kvällarna,design
+main,faktiskt,dev_only,,plockar,Oskar,Oskar plockar faktiskt svamp om kvällarna,Oskar faktiskt plockar svamp om kvällarna,design
+main,egentligen,dev_only,,borstar,Margareta,Margareta borstar egentligen tänderna om kvällarna,Margareta egentligen borstar tänderna om kvällarna,design
+main,redan,dev_only,,kokar,Ulrika,Ulrika kokar redan potatisen i stugan,Ulrika redan kokar potatisen i stugan,check
+main,knappast,dev_only,,dammsuger,Viktor,Viktor dammsuger knappast mattan på sommaren,Viktor knappast dammsuger mattan på sommaren,check
+main,troligen,dev_only,,vattnar,Sven,Sven vattnar troligen blommorna före frukost,Sven troligen vattnar blommorna före frukost,design
+main,alltid,shared,,putsar,Arvid,Arvid putsar alltid fönstren efter skolan,Arvid alltid putsar fönstren efter skolan,design
+main,aldrig,shared,,bakar,Selma,Selma bakar aldrig brödet på fritiden,Selma aldrig bakar brödet på fritiden,design
+main,ofta,shared,,sjunger,Ulrika,Ulrika sjunger ofta sången efter jobbet,Ulrika ofta sjunger sången efter jobbet,check
+main,sällan,shared,,bakar,Wilma,Wilma bakar sällan brödet om kvällarna,Wilma sällan bakar brödet om kvällarna,check
+main,ibland,shared,,putsar,Alva,Alva putsar ibland fönstren på helgerna,Alva ibland putsar fönstren på helgerna,design
+main,oftast,shared,,borstar,Gustav,Gustav borstar oftast tänderna efter jobbet,Gustav oftast borstar tänderna efter jobbet,design
+main,numera,shared,,stryker,Hugo,Hugo stryker numera skjortorna på sommaren,Hugo numera stryker skjortorna på sommaren,check
+main,ständigt,shared,,diskar,Birgitta,Birgitta diskar ständigt tallrikarna om kvällarna,Birgitta ständigt diskar tallrikarna om kvällarna,design
+main,regelbundet,shared,,skriver,Astrid,Astrid skriver regelbundet dagboken på helgerna,Astrid regelbundet skriver dagboken på helgerna,check
+main,fortfarande,shared,,dricker,Kjell,Kjell dricker fortfarande kaffet under lunchen,Kjell fortfarande dricker kaffet under lunchen,design
+main,inte,dev_only,,vattnar,Wilma,Wilma vattnar inte blommorna före frukost,Wilma inte vattnar blommorna före frukost,check
+main,verkligen,dev_only,,stryker,Selma,Selma stryker verkligen skjortorna på sommaren,Selma verkligen stryker skjortorna på sommaren,check
+main,gärna,dev_only,,tränar,Ludvig,Ludvig tränar gärna hunden under lunchen,Ludvig gärna tränar hunden under lunchen,check
+main,faktiskt,dev_only,,sjunger,Ulrika,Ulrika sjunger faktiskt sången på sommaren,Ulrika faktiskt sjunger sången på sommaren,check
+main,egentligen,dev_only,,kör,Hugo,Hugo kör egentligen bilen på sommaren,Hugo egentligen kör bilen på sommaren,check
+main,redan,dev_only,,kokar,Selma,Selma kokar redan potatisen på sommaren,Selma redan kokar potatisen på sommaren,check
+main,knappast,dev_only,,diskar,Märta,Märta diskar knappast tallrikarna på helgerna,Märta knappast diskar tallrikarna på helgerna,check
+main,troligen,dev_only,,matar,Stig,Stig matar troligen katten på fritiden,Stig troligen matar katten på fritiden,check
+main,alltid,shared,,diskar,Kjell,Kjell diskar alltid tallrikarna i stugan,Kjell alltid diskar tallrikarna i stugan,check
+main,aldrig,shared,,matar,Arvid,Arvid matar aldrig katten efter middagen,Arvid aldrig matar katten efter middagen,design
+main,ofta,shared,,bakar,Sigrid,Sigrid bakar ofta brödet på fritiden,Sigrid ofta bakar brödet på fritiden,check
+main,sällan,shared,,dammsuger,Gustav,Gustav dammsuger sällan mattan i stugan,Gustav sällan dammsuger mattan i stugan,design
+main,ibland,shared,,sjunger,Selma,Selma sjunger ibland sången efter skolan,Selma ibland sjunger sången efter skolan,design
+main,oftast,shared,,stryker,Maja,Maja stryker oftast skjortorna före frukost,Maja oftast stryker skjortorna före frukost,check
+main,numera,shared,,vattnar,Hugo,Hugo vattnar numera blommorna före frukost,Hugo numera vattnar blommorna före frukost,design
+main,ständigt,shared,,viker,Sven,Sven viker ständigt tvätten om kvällarna,Sven ständigt viker tvätten om kvällarna,check
+main,regelbundet,shared,,putsar,Signe,Signe putsar regelbundet fönstren efter skolan,Signe regelbundet putsar fönstren efter skolan,design
+main,fortfarande,shared,,klipper,Alva,Alva klipper fortfarande gräset i stugan,Alva fortfarande klipper gräset i stugan,design
+main,inte,dev_only,,klipper,Ulrika,Ulrika klipper inte gräset om kvällarna,Ulrika inte klipper gräset om kvällarna,check
+main,verkligen,dev_only,,dricker,Stig,Stig dricker verkligen kaffet i stugan,Stig verkligen dricker kaffet i stugan,check
+main,gärna,dev_only,,diskar,Hugo,Hugo diskar gärna tallrikarna under lunchen,Hugo gärna diskar tallrikarna under lunchen,design
+main,faktiskt,dev_only,,stryker,Leif,Leif stryker faktiskt skjortorna efter jobbet,Leif faktiskt stryker skjortorna efter jobbet,check
+main,egentligen,dev_only,,matar,Rolf,Rolf matar egentligen katten i stugan,Rolf egentligen matar katten i stugan,design
+main,redan,dev_only,,diskar,Ulrika,Ulrika diskar redan tallrikarna efter jobbet,Ulrika redan diskar tallrikarna efter jobbet,check
+main,knappast,dev_only,,skriver,Sigrid,Sigrid skriver knappast dagboken under lunchen,Sigrid knappast skriver dagboken under lunchen,design
+main,troligen,dev_only,,kokar,Hugo,Hugo kokar troligen potatisen på helgerna,Hugo troligen kokar potatisen på helgerna,design
+main,alltid,shared,,sopar,Sven,Sven sopar alltid golvet efter jobbet,Sven alltid sopar golvet efter jobbet,check
+main,aldrig,shared,,skriver,Birgitta,Birgitta skriver aldrig dagboken före frukost,Birgitta aldrig skriver dagboken före frukost,design
+main,ofta,shared,,dammsuger,Tove,Tove dammsuger ofta mattan före frukost,Tove ofta dammsuger mattan före frukost,check
+main,sällan,shared,,målar,Kjell,Kjell målar sällan staketet på helgerna,Kjell sällan målar staketet på helgerna,check
+main,ibland,shared,,målar,Wilma,Wilma målar ibland staketet efter jobbet,Wilma ibland målar staketet efter jobbet,check
+main,oftast,shared,,tränar,Göran,Göran tränar oftast hunden före frukost,Göran oftast tränar hunden före frukost,design
+main,numera,shared,,kokar,Stig,Stig kokar numera potatisen före frukost,Stig numera kokar potatisen före frukost,check
+main,ständigt,shared,,diskar,Maja,Maja diskar ständigt tallrikarna efter skolan,Maja ständigt diskar tallrikarna efter skolan,check
+main,regelbundet,shared,,tränar,Gustav,Gustav tränar regelbundet hunden på fritiden,Gustav regelbundet tränar hunden på fritiden,check
+main,fortfarande,shared,,kokar,Sven,Sven kokar fortfarande potatisen på sommaren,Sven fortfarande kokar potatisen på sommaren,design
+main,inte,dev_only,,borstar,Alva,Alva borstar inte tänderna efter middagen,Alva inte borstar tänderna efter middagen,check
+main,verkligen,dev_only,,bakar,Märta,Märta bakar verkligen brödet på sommaren,Märta verkligen bakar brödet på sommaren,check
+main,gärna,dev_only,,klipper,Gustav,Gustav klipper gärna gräset på helgerna,Gustav gärna klipper gräset på helgerna,design
+main,faktiskt,dev_only,,dricker,Ulrika,Ulrika dricker faktiskt kaffet efter skolan,Ulrika faktiskt dricker kaffet efter skolan,check
+main,egentligen,dev_only,,matar,Elsa,Elsa matar egentligen katten om kvällarna,Elsa egentligen matar katten om kvällarna,design
+main,redan,dev_only,,besöker,Ulrika,Ulrika besöker redan mormor före frukost,Ulrika redan besöker mormor före frukost,design
+main,knappast,dev_only,,målar,Stig,Stig målar knappast staketet på sommaren,Stig knappast målar staketet på sommaren,design
+main,troligen,dev_only,,målar,Arvid,Arvid målar troligen staketet på sommaren,Arvid troligen målar staketet på sommaren,check
+main,alltid,shared,,kokar,Elsa,Elsa kokar alltid potatisen efter middagen,Elsa alltid kokar potatisen efter middagen,check
+main,aldrig,shared,,plockar,Elsa,Elsa plockar aldrig svamp efter middagen,Elsa aldrig plockar svamp efter middagen,check
+main,ofta,shared,,matar,Kjell,Kjell matar ofta katten under lunchen,Kjell ofta matar katten under lunchen,check
+main,sällan,shared,,dammsuger,Astrid,Astrid dammsuger sällan mattan på helgerna,Astrid sällan dammsuger mattan på helgerna,design
+main,ibland,shared,,putsar,Sven,Sven putsar ibland fönstren efter middagen,Sven ibland putsar fönstren efter middagen,check
+main,oftast,shared,,kokar,Viktor,Viktor kokar oftast potatisen om kvällarna,Viktor oftast kokar potatisen om kvällarna,design
+main,numera,shared,,klipper,Arvid,Arvid klipper numera gräset på sommaren,Arvid numera klipper gräset på sommaren,check
+main,ständigt,shared,,skriver,Arvid,Arvid skriver ständigt dagboken efter jobbet,Arvid ständigt skriver dagboken efter jobbet,design
+main,regelbundet,shared,,dammsuger,Leif,Leif dammsuger regelbundet mattan på fritiden,Leif regelbundet dammsuger mattan på fritiden,check
+main,fortfarande,shared,,kör,Göran,Göran kör fortfarande bilen under lunchen,Göran fortfarande kör bilen under lunchen,design
+main,inte,dev_only,,sopar,Astrid,Astrid sopar inte golvet på fritiden,Astrid inte sopar golvet på fritiden,check
+main,verkligen,dev_only,,viker,Selma,Selma viker verkligen tvätten på sommaren,Selma verkligen viker tvätten på sommaren,check
+main,gärna,dev_only,,vattnar,Gustav,Gustav vattnar gärna blommorna om kvällarna,Gustav gärna vattnar blommorna om kvällarna,design
+main,faktiskt,dev_only,,dricker,Leif,Leif dricker faktiskt kaffet efter jobbet,Leif faktiskt dricker kaffet efter jobbet,check
+main,egentligen,dev_only,,plockar,Stig,Stig plockar egentligen svamp om kvällarna,Stig egentligen plockar svamp om kvällarna,check
+main,redan,dev_only,,sopar,Sven,Sven sopar redan golvet efter middagen,Sven redan sopar golvet efter middagen,design
+main,knappast,dev_only,,dammsuger,Hugo,Hugo dammsuger knappast mattan under lunchen,Hugo knappast dammsuger mattan under lunchen,check
+main,troligen,dev_only,,bakar,Rolf,Rolf bakar troligen brödet under lunchen,Rolf troligen bakar brödet under lunchen,design
+main,alltid,shared,,besöker,Oskar,Oskar besöker alltid mormor efter middagen,Oskar alltid besöker mormor efter middagen,check
+main,aldrig,shared,,stryker,Hugo,Hugo stryker aldrig skjortorna på fritiden,Hugo aldrig stryker skjortorna på fritiden,design
+main,ofta,shared,,plockar,Axel,Axel plockar ofta svamp i stugan,Axel ofta plockar svamp i stugan,design
+main,sällan,shared,,kör,Axel,Axel kör sällan bilen före frukost,Axel sällan kör bilen före frukost,check
+main,ibland,shared,,tränar,Sigrid,Sigrid tränar ibland hunden på helgerna,Sigrid ibland tränar hunden på helgerna,design
+main,oftast,shared,,matar,Göran,Göran matar oftast katten efter skolan,Göran oftast matar katten efter skolan,design
+main,numera,shared,,borstar,Viktor,Viktor borstar numera tänderna om kvällarna,Viktor numera borstar tänderna om kvällarna,design
+main,ständigt,shared,,putsar,Rolf,Rolf putsar ständigt fönstren i stugan,Rolf ständigt putsar fönstren i stugan,check
+main,regelbundet,shared,,målar,Gustav,Gustav målar regelbundet staketet efter jobbet,Gustav regelbundet målar staketet efter jobbet,check
+main,fortfarande,shared,,kokar,Vera,Vera kokar fortfarande potatisen under lunchen,Vera fortfarande kokar potatisen under lunchen,check
+main,inte,dev_only,,vattnar,Astrid,Astrid vattnar inte blommorna i stugan,Astrid inte vattnar blommorna i stugan,check
+main,verkligen,dev_only,,viker,Ludvig,Ludvig viker verkligen tvätten på fritiden,Ludvig verkligen viker tvätten på fritiden,design
+main,gärna,dev_only,,stryker,Lennart,Lennart stryker gärna skjortorna efter middagen,Lennart gärna stryker skjortorna efter middagen,check
+main,faktiskt,dev_only,,matar,Rolf,Rolf matar faktiskt katten efter jobbet,Rolf faktiskt matar katten efter jobbet,design
+main,egentligen,dev_only,,kokar,Göran,Göran kokar egentligen potatisen på sommaren,Göran egentligen kokar potatisen på sommaren,design
+main,redan,dev_only,,dammsuger,Lennart,Lennart dammsuger redan mattan på fritiden,Lennart redan dammsuger mattan på fritiden,design
+main,knappast,dev_only,,klipper,Sigrid,Sigrid klipper knappast gräset efter jobbet,Sigrid knappast klipper gräset efter jobbet,check
+main,troligen,dev_only,,vattnar,Ludvig,Ludvig vattnar troligen blommorna om kvällarna,Ludvig troligen vattnar blommorna om kvällarna,check
+main,alltid,shared,,viker,Selma,Selma viker alltid tvätten efter jobbet,Selma alltid viker tvätten efter jobbet,design
+main,aldrig,shared,,matar,Bengt,Bengt matar aldrig katten efter skolan,Bengt aldrig matar katten efter skolan,check
+main,ofta,shared,,kör,Tove,Tove kör ofta bilen på fritiden,Tove ofta kör bilen på fritiden,check
+main,sällan,shared,,borstar,Hugo,Hugo borstar sällan tänderna på helgerna,Hugo sällan borstar tänderna på helgerna,check
+main,ibland,shared,,dricker,Sigrid,Sigrid dricker ibland kaffet efter middagen,Sigrid ibland dricker kaffet efter middagen,check
+main,oftast,shared,,sopar,Sven,Sven sopar oftast golvet före frukost,Sven oftast sopar golvet före frukost,design
+main,numera,shared,,putsar,Tove,Tove putsar numera fönstren på helgerna,Tove numera putsar fönstren på helgerna,design
+main,ständigt,shared,,besöker,Gunilla,Gunilla besöker ständigt mormor på sommaren,Gunilla ständigt besöker mormor på sommaren,check
+main,regelbundet,shared,,dammsuger,Göran,Göran dammsuger regelbundet mattan före frukost,Göran regelbundet dammsuger mattan före frukost,design
+main,fortfarande,shared,,diskar,Gunilla,Gunilla diskar fortfarande tallrikarna efter skolan,Gunilla fortfarande diskar tallrikarna efter skolan,check
+main,inte,dev_only,,borstar,Arvid,Arvid borstar inte tänderna i stugan,Arvid inte borstar tänderna i stugan,check
+main,verkligen,dev_only,,tränar,Alva,Alva tränar verkligen hunden på sommaren,Alva verkligen tränar hunden på sommaren,design
+main,gärna,dev_only,,målar,Ulrika,Ulrika målar gärna staketet på sommaren,Ulrika gärna målar staketet på sommaren,check
+main,faktiskt,dev_only,,kör,Arvid,Arvid kör faktiskt bilen efter middagen,Arvid faktiskt kör bilen efter middagen,check
+main,egentligen,dev_only,,putsar,Ludvig,Ludvig putsar egentligen fönstren under lunchen,Ludvig egentligen putsar fönstren under lunchen,design
+main,redan,dev_only,,diskar,Arvid,Arvid diskar redan tallrikarna före frukost,Arvid redan diskar tallrikarna före frukost,check
+main,knappast,dev_only,,putsar,Elsa,Elsa putsar knappast fönstren på fritiden,Elsa knappast putsar fönstren på fritiden,design
+main,troligen,dev_only,,målar,Oskar,Oskar målar troligen staketet på sommaren,Oskar troligen målar staketet på sommaren,design
+main,alltid,shared,,klipper,Gustav,Gustav klipper alltid gräset om kvällarna,Gustav alltid klipper gräset om kvällarna,check
+main,aldrig,shared,,skriver,Selma,Selma skriver aldrig dagboken på helgerna,Selma aldrig skriver dagboken på helgerna,check
+main,ofta,shared,,viker,Ludvig,Ludvig viker ofta tvätten efter skolan,Ludvig ofta viker tvätten efter skolan,check
+main,sällan,shared,,matar,Stig,Stig matar sällan katten om kvällarna,Stig sällan matar katten om kvällarna,check
+main,ibland,shared,,bakar,Sven,Sven bakar ibland brödet om kvällarna,Sven ibland bakar brödet om kvällarna,design
+main,oftast,shared,,bakar,Hugo,Hugo bakar oftast brödet på helgerna,Hugo oftast bakar brödet på helgerna,check
+main,numera,shared,,målar,Bengt,Bengt målar numera staketet efter middagen,Bengt numera målar staketet efter middagen,design
+main,ständigt,shared,,viker,Rolf,Rolf viker ständigt tvätten efter jobbet,Rolf ständigt viker tvätten efter jobbet,design
+main,regelbundet,shared,,skriver,Göran,Göran skriver regelbundet dagboken på fritiden,Göran regelbundet skriver dagboken på fritiden,design
+main,fortfarande,shared,,dricker,Märta,Märta dricker fortfarande kaffet på sommaren,Märta fortfarande dricker kaffet på sommaren,check
+main,inte,dev_only,,kör,Lennart,Lennart kör inte bilen efter skolan,Lennart inte kör bilen efter skolan,check
+main,verkligen,dev_only,,borstar,Sven,Sven borstar verkligen tänderna efter skolan,Sven verkligen borstar tänderna efter skolan,design
+main,gärna,dev_only,,dammsuger,Gustav,Gustav dammsuger gärna mattan på fritiden,Gustav gärna dammsuger mattan på fritiden,check
+main,faktiskt,dev_only,,kokar,Viktor,Viktor kokar faktiskt potatisen efter jobbet,Viktor faktiskt kokar potatisen efter jobbet,check
+main,egentligen,dev_only,,dricker,Stig,Stig dricker egentligen kaffet efter skolan,Stig egentligen dricker kaffet efter skolan,check
+main,redan,dev_only,,klipper,Vera,Vera klipper redan gräset på fritiden,Vera redan klipper gräset på fritiden,design
+main,knappast,dev_only,,viker,Vera,Vera viker knappast tvätten på helgerna,Vera knappast viker tvätten på helgerna,design
+main,troligen,dev_only,,matar,Lennart,Lennart matar troligen katten före frukost,Lennart troligen matar katten före frukost,design
+main,alltid,shared,,kokar,Margareta,Margareta kokar alltid potatisen på fritiden,Margareta alltid kokar potatisen på fritiden,check
+main,aldrig,shared,,borstar,Märta,Märta borstar aldrig tänderna efter jobbet,Märta aldrig borstar tänderna efter jobbet,design
+main,ofta,shared,,bakar,Gustav,Gustav bakar ofta brödet efter jobbet,Gustav ofta bakar brödet efter jobbet,check
+main,sällan,shared,,sjunger,Rolf,Rolf sjunger sällan sången om kvällarna,Rolf sällan sjunger sången om kvällarna,check
+main,ibland,shared,,borstar,Hugo,Hugo borstar ibland tänderna efter skolan,Hugo ibland borstar tänderna efter skolan,check
+main,oftast,shared,,dammsuger,Ludvig,Ludvig dammsuger oftast mattan före frukost,Ludvig oftast dammsuger mattan före frukost,check
+main,numera,shared,,sopar,Wilma,Wilma sopar numera golvet i stugan,Wilma numera sopar golvet i stugan,design
+main,ständigt,shared,,dammsuger,Astrid,Astrid dammsuger ständigt mattan i stugan,Astrid ständigt dammsuger mattan i stugan,design
+main,regelbundet,shared,,besöker,Arvid,Arvid besöker regelbundet mormor på helgerna,Arvid regelbundet besöker mormor på helgerna,check
+main,fortfarande,shared,,vattnar,Sven,Sven vattnar fortfarande blommorna efter skolan,Sven fortfarande vattnar blommorna efter skolan,check
+main,inte,dev_only,,kokar,Hugo,Hugo kokar inte potatisen om kvällarna,Hugo inte kokar potatisen om kvällarna,design
+main,verkligen,dev_only,,dricker,Tove,Tove dricker verkligen kaffet på helgerna,Tove verkligen dricker kaffet på helgerna,check

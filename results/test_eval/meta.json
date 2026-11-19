@@ -1,0 +1,292 @@
+{
+ "A": {
+  "ppl": 6.355932287397276,
+  "deltas": []
+ },
+ "C": {
+  "ppl": 6.411306083989456,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833288,
+    "note": "scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494499,
+    "note": "scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519196,
+    "note": "scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B0": {
+  "ppl": 6.4448178075577,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833286,
+    "note": "random(seed=0) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494503,
+    "note": "random(seed=0) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519192,
+    "note": "random(seed=0) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B1": {
+  "ppl": 6.377070585124896,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833298,
+    "note": "random(seed=1) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494503,
+    "note": "random(seed=1) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519203,
+    "note": "random(seed=1) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B2": {
+  "ppl": 6.421542301968387,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833288,
+    "note": "random(seed=2) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494499,
+    "note": "random(seed=2) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519188,
+    "note": "random(seed=2) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B3": {
+  "ppl": 6.423123935535447,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833284,
+    "note": "random(seed=3) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494503,
+    "note": "random(seed=3) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519188,
+    "note": "random(seed=3) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B4": {
+  "ppl": 6.393002908757096,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833288,
+    "note": "random(seed=4) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494465,
+    "note": "random(seed=4) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519196,
+    "note": "random(seed=4) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B5": {
+  "ppl": 6.41112163146149,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833296,
+    "note": "random(seed=5) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494514,
+    "note": "random(seed=5) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519196,
+    "note": "random(seed=5) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B6": {
+  "ppl": 6.411517551070773,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833298,
+    "note": "random(seed=6) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494499,
+    "note": "random(seed=6) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519196,
+    "note": "random(seed=6) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B7": {
+  "ppl": 6.39372428006033,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.833282,
+    "note": "random(seed=7) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494507,
+    "note": "random(seed=7) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519207,
+    "note": "random(seed=7) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B8": {
+  "ppl": 6.3770426525325705,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.83329,
+    "note": "random(seed=8) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494492,
+    "note": "random(seed=8) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519203,
+    "note": "random(seed=8) matching: scale head 25.4 x2.0"
+   }
+  ]
+ },
+ "B9": {
+  "ppl": 6.387174021307922,
+  "deltas": [
+   {
+    "param": "model.layers.13.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 30.8333,
+    "note": "random(seed=9) matching: scale head 13.5 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 50.494499,
+    "note": "random(seed=9) matching: scale head 25.3 x2.0"
+   },
+   {
+    "param": "model.layers.25.self_attn.o_proj.weight",
+    "kind": "cols",
+    "n_index": 64,
+    "norm": 34.519196,
+    "note": "random(seed=9) matching: scale head 25.4 x2.0"
+   }
+  ]
+ }
+}

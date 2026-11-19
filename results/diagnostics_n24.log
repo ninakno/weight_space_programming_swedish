@@ -1,0 +1,107 @@
+24 items with aligned tokenisation
+margin clean=+4.91 corrupt=+1.41 gap=+3.50
+resid L0  X=+0.00  MV=+0.00  COMP=+1.03  Y=-0.02
+resid L1  X=+0.00  MV=+0.00  COMP=+0.99  Y=-0.03
+resid L2  X=+0.00  MV=+0.00  COMP=+1.00  Y=-0.05
+resid L3  X=+0.00  MV=+0.00  COMP=+0.99  Y=-0.03
+resid L4  X=+0.00  MV=+0.00  COMP=+0.99  Y=-0.02
+resid L5  X=+0.00  MV=-0.00  COMP=+0.98  Y=-0.02
+resid L6  X=+0.00  MV=+0.00  COMP=+0.98  Y=-0.01
+resid L7  X=+0.00  MV=-0.00  COMP=+0.99  Y=-0.01
+resid L8  X=+0.00  MV=+0.00  COMP=+0.99  Y=-0.01
+resid L9  X=+0.00  MV=-0.00  COMP=+0.98  Y=-0.01
+resid L10 X=+0.00  MV=+0.00  COMP=+0.98  Y=+0.00
+resid L11 X=-0.00  MV=+0.00  COMP=+0.84  Y=+0.07
+resid L12 X=-0.00  MV=-0.00  COMP=+0.82  Y=+0.07
+resid L13 X=+0.00  MV=+0.00  COMP=+0.65  Y=+0.19
+resid L14 X=+0.00  MV=+0.00  COMP=+0.64  Y=+0.15
+resid L15 X=+0.00  MV=-0.00  COMP=+0.65  Y=+0.18
+resid L16 X=+0.00  MV=+0.00  COMP=+0.59  Y=+0.20
+resid L17 X=+0.00  MV=-0.00  COMP=+0.58  Y=+0.21
+resid L18 X=-0.00  MV=+0.00  COMP=+0.54  Y=+0.22
+resid L19 X=+0.00  MV=+0.00  COMP=+0.41  Y=+0.23
+resid L20 X=-0.00  MV=-0.00  COMP=+0.40  Y=+0.23
+resid L21 X=+0.00  MV=+0.00  COMP=+0.30  Y=+0.31
+resid L22 X=+0.00  MV=+0.00  COMP=+0.31  Y=+0.30
+resid L23 X=-0.00  MV=+0.00  COMP=+0.32  Y=+0.29
+resid L24 X=-0.00  MV=-0.00  COMP=+0.31  Y=+0.29
+resid L25 X=-0.00  MV=-0.00  COMP=+0.00  Y=+0.67
+resid L26 X=+0.00  MV=-0.00  COMP=-0.00  Y=+0.67
+resid L27 X=-0.00  MV=+0.00  COMP=-0.00  Y=+0.42
+resid L28 X=-0.00  MV=-0.00  COMP=-0.00  Y=+0.43
+resid L29 X=+0.00  MV=+0.00  COMP=+0.00  Y=+0.43
+comp  L0  attn=-0.007  mlp=-0.005
+comp  L1  attn=-0.018  mlp=-0.011
+comp  L2  attn=-0.002  mlp=-0.007
+comp  L3  attn=+0.004  mlp=+0.005
+comp  L4  attn=-0.009  mlp=-0.021
+comp  L5  attn=+0.000  mlp=+0.001
+comp  L6  attn=-0.016  mlp=+0.008
+comp  L7  attn=+0.003  mlp=-0.023
+comp  L8  attn=-0.002  mlp=+0.002
+comp  L9  attn=+0.005  mlp=+0.005
+comp  L10 attn=+0.011  mlp=-0.015
+comp  L11 attn=+0.014  mlp=+0.016
+comp  L12 attn=+0.029  mlp=-0.027
+comp  L13 attn=+0.037  mlp=-0.010
+comp  L14 attn=+0.003  mlp=+0.033
+comp  L15 attn=-0.006  mlp=-0.015
+comp  L16 attn=+0.022  mlp=-0.034
+comp  L17 attn=+0.009  mlp=+0.012
+comp  L18 attn=+0.014  mlp=+0.012
+comp  L19 attn=+0.079  mlp=+0.013
+comp  L20 attn=-0.010  mlp=+0.051
+comp  L21 attn=+0.083  mlp=-0.001
+comp  L22 attn=-0.011  mlp=-0.014
+comp  L23 attn=-0.020  mlp=+0.016
+comp  L24 attn=+0.009  mlp=-0.013
+comp  L25 attn=+0.436  mlp=+0.152
+comp  L26 attn=+0.028  mlp=+0.082
+comp  L27 attn=+0.017  mlp=+0.122
+comp  L28 attn=-0.020  mlp=+0.005
+comp  L29 attn=-0.008  mlp=+0.056
+heads L16 -0.00 +0.00 -0.00 +0.00 -0.00 +0.00 +0.00 +0.01 +0.02
+heads L17 +0.00 +0.00 +0.00 -0.00 +0.00 +0.00 +0.00 -0.00 +0.00
+heads L18 -0.01 +0.01 -0.01 -0.00 -0.00 +0.02 -0.00 +0.00 +0.00
+heads L19 -0.00 +0.01 +0.00 +0.03 +0.02 -0.00 +0.02 +0.00 +0.00
+heads L20 +0.00 +0.01 -0.00 -0.00 -0.00 -0.00 -0.00 -0.01 -0.00
+heads L21 +0.07 +0.00 +0.00 +0.01 -0.00 +0.01 +0.00 +0.00 -0.00
+heads L22 +0.00 +0.00 -0.00 +0.00 -0.00 -0.01 -0.00 +0.00 +0.00
+heads L23 -0.00 -0.00 -0.00 +0.00 -0.01 -0.00 -0.01 -0.00 +0.00
+heads L24 +0.00 -0.00 -0.00 +0.01 -0.00 -0.00 +0.00 -0.00 +0.00
+heads L25 -0.00 +0.00 -0.00 +0.25 +0.19 -0.02 +0.02 -0.00 +0.00
+heads L26 +0.00 +0.00 -0.00 -0.00 +0.00 -0.00 +0.01 +0.01 +0.00
+heads L27 -0.00 +0.00 -0.00 +0.00 +0.00 +0.00 -0.00 -0.00 +0.02
+heads L28 -0.00 +0.00 -0.01 +0.00 -0.00 +0.00 +0.00 -0.01 -0.00
+heads L29 -0.01 +0.01 -0.00 -0.01 +0.00 +0.00 -0.00 +0.00 -0.00
+lens  L0  clean=+2.43 corrupt=+2.54
+lens  L1  clean=+3.58 corrupt=+3.65
+lens  L2  clean=+3.94 corrupt=+4.23
+lens  L3  clean=+2.90 corrupt=+3.19
+lens  L4  clean=+3.59 corrupt=+3.88
+lens  L5  clean=+2.83 corrupt=+3.03
+lens  L6  clean=+1.71 corrupt=+2.01
+lens  L7  clean=+2.70 corrupt=+2.96
+lens  L8  clean=+3.46 corrupt=+3.61
+lens  L9  clean=+4.62 corrupt=+4.59
+lens  L10 clean=+4.74 corrupt=+4.79
+lens  L11 clean=+5.13 corrupt=+5.22
+lens  L12 clean=+4.87 corrupt=+5.12
+lens  L13 clean=+5.48 corrupt=+5.88
+lens  L14 clean=+5.58 corrupt=+5.95
+lens  L15 clean=+5.59 corrupt=+5.98
+lens  L16 clean=+5.70 corrupt=+6.08
+lens  L17 clean=+5.66 corrupt=+6.11
+lens  L18 clean=+5.77 corrupt=+6.46
+lens  L19 clean=+5.31 corrupt=+5.96
+lens  L20 clean=+5.20 corrupt=+5.75
+lens  L21 clean=+5.69 corrupt=+5.73
+lens  L22 clean=+5.48 corrupt=+5.45
+lens  L23 clean=+5.31 corrupt=+5.37
+lens  L24 clean=+3.62 corrupt=+3.54
+lens  L25 clean=+4.61 corrupt=+3.22
+lens  L26 clean=+4.16 corrupt=+2.59
+lens  L27 clean=+3.64 corrupt=+1.82
+lens  L28 clean=+2.39 corrupt=+0.88
+lens  L29 clean=+0.49 corrupt=-0.53
+wrote /home/nina/Documents/Projects/weight_space_programming_swedish/results/diagnostics.json

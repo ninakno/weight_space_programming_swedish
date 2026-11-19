@@ -1,0 +1,1 @@
+llm_edit.py sha256=37dbfa8342ef04751c1afa3f8b8a4a5dc30a94393aba730fdb4760287cde8121  model=jekunz/smollm-135m-cpt-fineweb-swedish  frozen=2026-11-19 16:57

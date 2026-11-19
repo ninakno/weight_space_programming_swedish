@@ -1,0 +1,15 @@
+{
+  "model": "Qwen/Qwen3-0.6B-Base",
+  "seconds": 45.4,
+  "phenomena": {
+    "EMBEDDED V2 AdvP.": {
+      "acc": 0.55,
+      "ci95": [
+        0.45,
+        0.65
+      ],
+      "n": 100
+    }
+  },
+  "overall_acc": 0.55
+}

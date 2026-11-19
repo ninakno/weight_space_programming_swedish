@@ -1,0 +1,13 @@
+llm_edit.py sha256=37dbfa8342ef04751c1afa3f8b8a4a5dc30a94393aba730fdb4760287cde8121  model=jekunz/smollm-135m-cpt-fineweb-swedish  frozen=2026-11-19 16:57
+A    target=0.85 overall=0.772 ppl=6.356  (206s)
+C    target=0.88 overall=0.775 ppl=6.411  (216s)
+B0   target=0.82 overall=0.762 ppl=6.445  (223s)
+B1   target=0.84 overall=0.771 ppl=6.377  (249s)
+B2   target=0.84 overall=0.763 ppl=6.422  (266s)
+B3   target=0.85 overall=0.771 ppl=6.423  (271s)
+B4   target=0.83 overall=0.770 ppl=6.393  (278s)
+B5   target=0.80 overall=0.773 ppl=6.411  (205s)
+B6   target=0.84 overall=0.770 ppl=6.412  (235s)
+B7   target=0.84 overall=0.767 ppl=6.394  (205s)
+B8   target=0.85 overall=0.775 ppl=6.377  (199s)
+B9   target=0.85 overall=0.769 ppl=6.387  (199s)

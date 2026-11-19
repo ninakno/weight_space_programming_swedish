@@ -1,0 +1,15 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-360M",
+  "seconds": 33.5,
+  "phenomena": {
+    "EMBEDDED V2 AdvP.": {
+      "acc": 0.53,
+      "ci95": [
+        0.43,
+        0.63
+      ],
+      "n": 100
+    }
+  },
+  "overall_acc": 0.53
+}
