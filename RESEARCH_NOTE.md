@@ -5,7 +5,7 @@
 Large language models still struggle with many linguistic problems, especially
 in languages that are underrepresented in their training data. Many currently
 available LLMs have not seen enough Swedish to handle the language reliably,
-even though they can produce Swedish output. With some models, even a slight
+even though they can produce Swedish output. With some multilingual models, even a slight
 increase in sampling temperature quickly leads to ungrammatical output or to
 words from other languages being mixed in.
 
