@@ -9,10 +9,13 @@ even though they can produce Swedish output. With some multilingual models, even
 increase in sampling temperature quickly leads to ungrammatical output or to
 words from other languages being mixed in.
 
-Retraining or fine-tuning LLMs on large amounts of Swedish data is expensive,
-and depends on having enough clean training data. It would therefore be
-interesting to see whether an existing model can be improved in terms of
-grammaticality and language selection through *weight-space programming*:
+Strong Swedish models are therefore typically built by adapting existing open
+models, which are often multilingual, with large amounts of Swedish data, rather
+than by training from scratch. Such adaptation is expensive, depends on having
+enough clean Swedish training data, and does not necessarily remove all weak
+spots or traces of other languages. It would therefore be interesting to see
+whether an existing model can be improved in terms of grammaticality and
+language selection through *weight-space programming*:
 "treating the weights as a program to be read and written, instead of leaving
 them entirely to an optimizer" (Takehi et al., 2026). In that work, an LLM
 directly edited a small fraction of another model's weights, for example
@@ -275,6 +278,33 @@ where it is not. The most informative next steps would be:
 5. **Test scaling:** check whether similar circuits exist, and whether similar
    edits work, in larger Swedish models and on broader tasks than a single
    word-order rule.
+
+**The most informative next experiment.** With more time and compute (a GPU
+rather than a laptop CPU), the most informative experiment for SE.LLMA would
+follow its own way of building models: adapting an open base model with
+Swedish data, starting small and moving to larger models. The present
+experiment already had this setup in miniature, since the Swedish model was an
+open base model (SmolLM2) adapted with Swedish data. The follow-up would compare
+three conditions on benchmarks of Swedish grammatical nuance such as SwE-BLiMP:
+
+1. **Base model + LLM-authored edit:** how much of the gain that Swedish data
+   brings can an edit achieve without any data?
+2. **Swedish-adapted model + LLM-authored edit:** does editing add anything on
+   top of Swedish adaptation? This is the most relevant case for SE.LLMA, as a
+   cheap way to fix the remaining weak spots of a model that has already been
+   trained.
+3. **Swedish-adapted model + small LoRA** on targeted examples, matched for
+   effort and compute: the cheap-training baseline that an edit has to beat.
+
+This would be run first on a small model pair and then on a larger one. It
+combines next steps 1 and 5, and would use the better measurement from step 3.
+Language mixing in generated text could be tracked as a secondary measure, since
+a multilingual starting point can leave traces of other languages even after
+adaptation. The result that would argue for weight-space programming in SE.LLMA
+is condition 2 reliably improving on the adapted model at lower cost than
+condition 3, and continuing to do so for the larger model. If the edit only
+helps the small base model, or a small LoRA does as well at similar cost, the
+approach is mainly of research interest for the project.
 
 Until such results exist, I see weight-space programming as a promising
 research direction for SE.LLMA, most immediately useful as a diagnostic tool
