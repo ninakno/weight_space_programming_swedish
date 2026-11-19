@@ -185,3 +185,22 @@ Until such results exist, I see weight-space programming as a promising
 research direction for SE.LLMA, most immediately useful as a diagnostic tool
 for understanding specific model failures. It is not yet a practical method for
 improving Swedish models.
+
+## AI usage
+
+This project was carried out with substantial AI assistance from **Claude Opus 5.5
+(`claude-opus-5-5`), running in Claude Code (CLI, auto mode)**.
+
+- **Idea:** the idea for the experiment, testing whether weight-space
+  programming can improve an LLM on Swedish subordinate-clause word order, was
+  my own.
+- **Planning:** I planned the experiment together with Claude. Key decisions
+  were mine: the three-arm design (baseline, random edit, LLM edit), the
+  constraints (no training, CPU only, no API keys), the model choice and the
+  scope.
+- **Code and execution:** all code was written by Claude, and Claude ran the
+  experiments, diagnostics and analyses.
+- **The edit in arm C:** as described in Section 2, the edit was designed and
+  selected by Claude. Being written by an LLM is part of what was tested.
+- **This note:** Claude drafted the text of each section based on my
+  instructions on what to include. I reviewed and revised it.
